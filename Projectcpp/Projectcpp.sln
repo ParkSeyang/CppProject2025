@@ -5,11 +5,13 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Projectcpp", "Projectcpp.vcxproj", "{B89DF767-0EBF-4106-9842-72872253E917}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chapter 1 (input&output)", "..\chapter 1 (input&output)\chapter 1 (input&output).vcxproj", "{A380C58A-0252-4AC7-9276-F3ECC361D886}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter 1 (input&output)", "..\chapter 1 (input&output)\chapter 1 (input&output).vcxproj", "{A380C58A-0252-4AC7-9276-F3ECC361D886}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ToyProject 1", "..\ToyProject 1\ToyProject 1.vcxproj", "{5BE44AE1-20FF-4C1B-802F-0316BE0C02F6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter 2 (input&output2)", "..\Chapter 2 (input&output2)\Chapter 2 (input&output2).vcxproj", "{E73FFFF4-AB17-465F-9187-468509F1A222}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter 2 (Referrer)", "..\Chapter 2 (input&output2)\Chapter 2 (input&output2).vcxproj", "{E73FFFF4-AB17-465F-9187-468509F1A222}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter 3 (Structure & Referrer)", "..\Chapter 3 (Structure & Referrer)\Chapter 3 (Structure & Referrer).vcxproj", "{60CE79B7-43F0-4B85-B07B-7F4050B9F78B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,14 @@ Global
 		{E73FFFF4-AB17-465F-9187-468509F1A222}.Release|x64.Build.0 = Release|x64
 		{E73FFFF4-AB17-465F-9187-468509F1A222}.Release|x86.ActiveCfg = Release|Win32
 		{E73FFFF4-AB17-465F-9187-468509F1A222}.Release|x86.Build.0 = Release|Win32
+		{60CE79B7-43F0-4B85-B07B-7F4050B9F78B}.Debug|x64.ActiveCfg = Debug|x64
+		{60CE79B7-43F0-4B85-B07B-7F4050B9F78B}.Debug|x64.Build.0 = Debug|x64
+		{60CE79B7-43F0-4B85-B07B-7F4050B9F78B}.Debug|x86.ActiveCfg = Debug|Win32
+		{60CE79B7-43F0-4B85-B07B-7F4050B9F78B}.Debug|x86.Build.0 = Debug|Win32
+		{60CE79B7-43F0-4B85-B07B-7F4050B9F78B}.Release|x64.ActiveCfg = Release|x64
+		{60CE79B7-43F0-4B85-B07B-7F4050B9F78B}.Release|x64.Build.0 = Release|x64
+		{60CE79B7-43F0-4B85-B07B-7F4050B9F78B}.Release|x86.ActiveCfg = Release|Win32
+		{60CE79B7-43F0-4B85-B07B-7F4050B9F78B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
