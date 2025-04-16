@@ -1,2 +1,23 @@
-﻿  Person.cpp
-  Chapter 5 (Copy Data).vcxproj -> C:\Users\Administrator\Desktop\CppProject2025\Projectcpp\x64\Debug\Chapter 5 (Copy Data).exe
+﻿  Main.cpp
+  Person.cpp
+C:\Users\Administrator\Desktop\CppProject2025\Chapter 5 (Copy Data)\Person.h(59,34): error C2059: 구문 오류: ')'
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\CppProject2025\Chapter 5 (Copy Data)\Person.h(60,2): error C2143: 구문 오류: ')'이(가) '{' 앞에 없습니다.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\CppProject2025\Chapter 5 (Copy Data)\Main.cpp(57,15): error C2661: 'Person::Person': 오버로드된 함수에서 3개의 인수를 사용하지 않습니다.
+      C:\Users\Administrator\Desktop\CppProject2025\Chapter 5 (Copy Data)\Main.cpp(57,15):
+      인수 목록 '(int, const char [7], int)'을(를) 일치시키는 동안
+  
+C:\Users\Administrator\Desktop\CppProject2025\Chapter 5 (Copy Data)\Main.cpp(59,15): error C2661: 'Person::Person': 오버로드된 함수에서 3개의 인수를 사용하지 않습니다.
+      C:\Users\Administrator\Desktop\CppProject2025\Chapter 5 (Copy Data)\Main.cpp(59,15):
+      인수 목록 '(int, const char [5], int)'을(를) 일치시키는 동안
+  
+C:\Users\Administrator\Desktop\CppProject2025\Chapter 5 (Copy Data)\Person.h(59,34): error C2059: 구문 오류: ')'
+  (소스 파일 'Person.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\CppProject2025\Chapter 5 (Copy Data)\Person.h(60,2): error C2143: 구문 오류: ')'이(가) '{' 앞에 없습니다.
+  (소스 파일 'Person.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...

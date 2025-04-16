@@ -35,46 +35,37 @@ struct Person
 	int age;
 	char* name;         // 길이가 얼마인가? 메모리가 배정 되어 있지 않다. 
 	string sName;
-	enum Gender
+	enum Gender 
 	{
-		Boy = 0,
-		Girl = 1,
+		Boy,
+		Girl,
 	};
 
 	Gender gender;
+	
 	// 디폴트 생성자
 	Person() {} 
 
 	// 가장 간단한 문자열 초기화 방식
-	Person(int age, const string& sName) : age(age), sName(sName) {} // <-이러한 초기화 방식을 
-	                                                                 // 멤버 이니셜라이징 이라고한다. 
-	// 멤버 이니셜라이징의 장점 : 외부에서 따로생성하지않고 바로불러오기때문에 동작이 속도가 조금 더 빠르다.
+	Person(int age, const string& sName) : age(age), sName(sName) {}
+	                                                                 
 	                            
-	Person(int age)  // 코딩을 불러올때 외부에서 매개변수로 받고 불러오기 때문에 느리다.
-	{
-		this->age = age;
-	}
+	// Person(int age)  // 코딩을 불러올때 외부에서 매개변수로 받고 불러오기 때문에 느리다.
+	// {
+	// 	this->age = age;
+	// }
 
 	// 생성자 오버로딩
-	Person(int age, const char* str, Gender& gender2) :age(age)
+	Person(int age, const char* str) :age(age)
 	{
+
 		// char * name을 사용하기위해서는 메모리 공간을 직접 생성해줘야한다.
 		name = new char[strlen(str) + 1];
 		// 새로 생성한 공간에 외부에 있는 데이터를 복사해서 옮겨와야 한다.
 		strcpy(name, str);
-		switch (gender2)
-		{
-		case Person::Boy:
-			cout << "이 플레이어의 성별은 남자입니다." << endl;
-			break;
-		case Person::Girl:
-			cout << "이 플레이어의 성별은 여자입니다." << endl;
-			break;
-		default:
-			cout << "잘못된 값을 입력받았습니다." << endl;
-			break;
-		}
+
 	}
+
 	// 소멸자 : 객체가 소멸될 때 자동으로 호출된다.
 	~Person()
 	{
