@@ -56,7 +56,7 @@ struct Person
 	}
 
 	// 생성자 오버로딩
-	Person(int age, const char* str,Gender&gender2) :age(age)
+	Person(int age, const char* str, Gender& gender2) :age(age)
 	{
 		// char * name을 사용하기위해서는 메모리 공간을 직접 생성해줘야한다.
 		name = new char[strlen(str) + 1];
