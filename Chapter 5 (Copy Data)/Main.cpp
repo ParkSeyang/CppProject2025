@@ -54,7 +54,7 @@ int main()
 	// Example(); 주소값 복사 예제
 
 	// Person human1 = {20}; // human1이라는 공간에 데이터를 복사해서 넣어줘야한다.
-	Person human1(20, "모험가",0); // const char*
+	Person human1(20, "모험가",); // const char*
 	Person human1Clone;
 	Person human2(30, "용병",0);
 	human1Clone.Clone(human1);
