@@ -19,14 +19,21 @@
 * 포션을 먹는다.
 */
 
-#include "Enemy.h"
+#include "GameManager.h"
+/*
+* Enemy 객체
+* GameManager 객체
+*/
 
 int main()
 {
-	Enemy Slime(100,10,1,"슬라임",SlimeIdle);  // 몬스터 객체를 생성
 
-	int slimeX = 30;
-	int slimeY = 5;
+	Enemy Slime(100,10,1,"슬라임",SlimeIdle,IDLE);  // 몬스터 객체를 생성
+	Player player(100, 10, 1, "모험가", PlayerIdle, IDLE);
+	GameManager Game(Slime,player);
+
+	// int slimeX = 30;
+	// int slimeY = 5;
 	/*
 	* 적군이 어떤조건일때 SlimeIdle 이어야 하는가?
 	* 적군이 어떤 조건일 때 Move 인가?
@@ -34,15 +41,20 @@ int main()
 	*/
 
 	
-	_getch(); // 키보드의 아무 버튼을 누르면 다음으로 진행됩니다.
+	// _getch(); // 키보드의 아무 버튼을 누르면 다음으로 진행됩니다.
 
-	while (true)
-	{
-		Slime.SetBattleImage(SlimeIdle, slimeX,slimeY);
-		Sleep(500);
-		system("cls");
-		Slime.SetBattleImage(SlimeMove, slimeX, slimeY);
-		Sleep(500);
-		system("cls");
-	}
+
+	Game.GameLoop();
+
+	// while (true)
+	// {
+	// 	Game.player.SetBattleImage(PlayerIdle);
+	// 	Game.currentEnemy.SetBattleImage(SlimeIdle);
+	// 	Sleep(500);
+	// 	system("cls");
+	// 	Game.player.SetBattleImage(PlayerMove);
+	// 	Game.currentEnemy.SetBattleImage(SlimeMove);
+	// 	Sleep(500);
+	// 	system("cls");
+	// }
 }

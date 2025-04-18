@@ -11,14 +11,14 @@ void Enemy::ChangeImage(char Image[IMAGEHEIGHT][IMAGEWIDTH + 1])
 	}
 }
 
-void Enemy::ShowImage(int &posx, int &posy)
+void Enemy::ShowImage()
 {
 	for (int y = 0; y < IMAGEHEIGHT; y++)
 	{
 		for (int x = 0; x < IMAGEWIDTH + 1; x++)
 		{
 			// 특정 좌표로 이동하세요
-			GoToXY(posx+x, posy+y);
+			GoToXY(posX+x, posY+y);
 
 			cout << Image[y][x];
 		}
@@ -26,9 +26,9 @@ void Enemy::ShowImage(int &posx, int &posy)
 	}
 }
 
-bool Enemy::IsBattle(int x, int y)
+bool Enemy::IsBattle()
 {
-	if (x <= 10)
+	if (posX <= 10)
 	{
 		return true;
 	}
@@ -39,7 +39,7 @@ bool Enemy::IsBattle(int x, int y)
 	
 }
 
-void Enemy::SetBattleImage(char Image[IMAGEHEIGHT][IMAGEWIDTH + 1], int& posx, int& posy)
+void Enemy::SetBattleImage(char Image[IMAGEHEIGHT][IMAGEWIDTH + 1])
 {
 
 	ChangeImage(Image);
@@ -48,16 +48,34 @@ void Enemy::SetBattleImage(char Image[IMAGEHEIGHT][IMAGEWIDTH + 1], int& posx, i
 	// x의 좌표가 목표 위치보다 크면 이동해야한다.
 	// x의 좌표가 목표 위치보다 작거나 같으면 정지.
 	
-	if (IsBattle(posx,posy)) // 전투 상태 일때는 가만히있는다.
+	if (IsBattle()) // 전투 상태 일때는 가만히있는다.
 	{
-		posx = 10;
+		posX = 10;
 	}
 	else
 	{
 		// 적군 마다 특별한 행동을 하는 함수 호출
-		posx--;
+		posX--;
 	}
 	
 	
-	ShowImage(posx, posy);
+	ShowImage();
+}
+
+void Enemy::Attaked(int damage)
+{
+	// 
+	damage = damage - DEF;
+	if (damage <= 0)
+	{
+		damage = 1;
+	}
+	HP -= damage;
+	
+	if (HP <=0 )
+	{
+		isDeath = true;
+	}
+
+	// HP가 0보다 작거나 같으면 몬스터가 죽었다는 사실을 알려야한다. = bool isDeath
 }
