@@ -17,7 +17,6 @@ struct GameManager
 	// 다른 게임 로직들을 통합한 기능
 	void GameLoop();
 
-
 	void Battle();
 
 	void Animation();
