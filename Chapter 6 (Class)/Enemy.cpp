@@ -1,11 +1,11 @@
 #include "Enemy.h"
 
-void Monster::AttackedBy(int damage)
+void Enemy::AttackedBy(int damage)
 {
 
 }
 
-void Monster::Recovery(int heal)
+void Enemy::Recovery(int heal)
 {
 
 }

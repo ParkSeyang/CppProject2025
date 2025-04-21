@@ -72,6 +72,7 @@ struct Item
 	// char name[20]; std::string 은 이름의 크기를 자동으로 할당해준다.
 	std::string name;
 	int price;
+	int attackPower;
 };
 
 // Item 구조체의 참조자를 받아와서 이름을 원하는 이름으로 변경하고 가격을 원하는 가격으로 설정하는 함수를 만든다.
@@ -86,10 +87,11 @@ void MySetItem(Item& itemname,const std::string name,int Price)
 }
 
 
-void SetItem(Item& item, const std::string Nname, int price)
+void SetItem(Item& item, const std::string Nname, int price, int attackPower)
 {
 	item.name = Nname; // 외부에서 가져온 item을 Nname으로 설정해준다.
 	item.price = price;
+	item.attackPower = attackPower;
 }
 
 void SetItem(Item& Setitem, const Item& copyItem) // ShopItem 항목,
@@ -118,7 +120,7 @@ void ShowShop(Item shop[], int length, int x = 10, int y = 10)
 	}
 }
 
-//shop배열, 선택한 인덱스, item 배열 인벤토리.
+// shop배열, 선택한 인덱스, item 배열 인벤토리.
 // copyItem 
 // 상점(Item 배열)에 있는 데이터를 복사해서, 유저의 아이템 배열에 가져온다. 배열의 데이터를 변경한다.
 
@@ -145,9 +147,9 @@ int main()
 	Item ItemB;
 	Item ItemC;
 
-	SetItem(ItemA, "Apple", 100);
-	SetItem(ItemB, "Banana", 500);
-	SetItem(ItemC, "Candy", 50);
+	SetItem(ItemA, "Apple", 100,3);
+	SetItem(ItemB, "Banana", 500,2);
+	SetItem(ItemC, "Candy", 50,1);
 
 	Item Shop[3]{ ItemA,ItemB,ItemC };
 
@@ -164,6 +166,7 @@ int main()
 	// 몬스터 데이터가 여러개가 있는데 현재 배틀 중에 등장할 몬스터를 선택한다.
 	// 몬스터 데이터를 불러오는거
 	// Stage정보가 있는데 특정 스테이지를 호출하고 싶다.
+	// 몬스터, Stage, 데이터
 
 	std::cout << "인벤토리의 아이템 확인 " << std::endl;
 	std::cout << Inventory[0].name << "," << Inventory[0].price << std::endl;
@@ -178,11 +181,9 @@ int main()
 	ConsoleUtils::GoToXY(10, 10);
 	std::cout << "플레이어 의 정보";
 
-	// 예제 2. 플레이어 의 이름을 입력받아서 플레이어의 엉보 텍스트 한줄 아래에 출력하기.
+	// 예제 2. 플레이어 의 이름을 입력받아서 플레이어의 정보 텍스트 한줄 아래에 출력하기.
 	// 입력 값을 정수로 받아서, 1을받으면 플레이어 이름 추가하기.
-	//2를 받으면 화면에 플레이어 정보를 출력하기
-
-	
+	// 2를 받으면 화면에 플레이어 정보를 출력하기
 
 	char name[10];
 
@@ -217,7 +218,7 @@ int main()
 	}
 	
 	int height = 5;
-		int length = 5;
+	int length = 5;
 	while (true) // 플레이어의 이동구현
 	{
 		system("cls");

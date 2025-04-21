@@ -2,7 +2,6 @@
 #include "Common.h"
 #include "Image.h"
 
-
 struct Enemy
 {
 	int HP;
@@ -16,10 +15,9 @@ struct Enemy
 	int posY;
 	bool isDeath;
 
-	Enemy(int HP, int ATK, int DEF, string name, char Image[IMAGEHEIGHT][IMAGEWIDTH + 1],BattleState battleState)
+	Enemy(int HP, int ATK, int DEF, string name, char Image[IMAGEHEIGHT][IMAGEWIDTH + 1], BattleState battleState)
 		: HP(HP), ATK(ATK), DEF(DEF), name(name), battleState(battleState)
 	{
-		//battleState = IDLE;
 		posX = 30;
 		posY = 5;
 		isDeath = false;
@@ -32,19 +30,21 @@ struct Enemy
 			}
 		}
 	}
-	// 기능선언
+
+	// 기능을 선언
 	void ChangeImage(char Image[IMAGEHEIGHT][IMAGEWIDTH + 1]);
 	void ShowImage();
 
 	// 조건에 해당하는 기능
-	 bool IsBattle();
-	 bool IsWalk();
-	 bool ISIdle();
+	bool IsBattle();
+	bool IsWalk();
+	bool IsIdle();
 
-	// 기능을 조합해서 또다른 하나의 새로운 기능으로 표현한다.
+	// 기능을 조합해서 하나의 새로운 기능으로 표현한다.
 	void SetBattleImage(char Image[IMAGEHEIGHT][IMAGEWIDTH + 1]);
 
 	// 전투를 위한 기능
-	void Attaked(int damage);
+	void Attacked(int damage);
 	void Defence();
+
 };

@@ -1,8 +1,10 @@
 #include <iostream>
+
 /* 저번 챕터 2에서 배운것 복습 포인트
 * x,y의 정수형 좌표를 함수의 매개변수로 받아서 외부에서 값이 변경되도록 하는
 * 함수 PlayerInput(int& x, int& y);
-* 반환값이 없는함수. 이름이 PlayerInput(int& a, int& b); 호출할 수 있다.
+* 반환값이 없는함수. 
+* 이름이 PlayerInput(int& a, int& b); 호출할 수 있다.
 * 매개변수 타입 해석 : 정수형 데이터, 참조한 데이터를 수정 할 수 있다.
 */
 
@@ -43,12 +45,12 @@ struct Pos
 
 /*
 * 참조자를 반환형에 사용하는 경우.
-* 
 */
 
-int& ReturnRef() // int& num1 = ReturnRef(); num이라는 공간에 숫자 20을 넣고 5를 더한다. 
-// num별명을 num1로 하겠다.  함수안에 있는 num 지역변수는 함수가 종료되면 소멸한다.
-// 댕글링 래퍼런스 = 소멸된 변수를 참조할경우.
+int& ReturnRef() // int& num1 = ReturnRef(); 
+                 // num이라는 공간에 숫자 20을 넣고 5를 더한다. 
+                 // num별명을 num1로 하겠다. 함수안에 있는 num 지역변수는 함수가 종료되면 소멸한다.
+                 // 댕글링 래퍼런스 = 소멸된 변수를 참조할경우.
 {
 	int num = 20;
 	num += 5;
@@ -83,19 +85,19 @@ int main()
 {
 	std::cout << "Ch 3 구조체와 참조자 " << std::endl;
 
-	int PlayerX = 0;
-
-	int PlayerY = 0;
+	int PlayerX = 0, PlayerY = 0;
 
 	PlayerInput(PlayerX, PlayerY);
 
 	std::cout<< "PlayerInput 출력 결과 " << std::endl;
-	std::cout << "X 의 값 : " << PlayerX << " , " << "Y의 값 : " << PlayerY << std::endl;
+	std::cout << "X 의 값 : " << PlayerX 
+		<< " , " << "Y의 값 : " << PlayerY << std::endl;
 
 	Pos PlayerPos = { PlayerX,PlayerY };
 	PlayerInput(PlayerPos);
 	std::cout << "PlayerInput 출력 결과 " << std::endl;
-	std::cout << "X 의 값 : " << PlayerPos.x << " , " << "Y의 값 : " << PlayerPos.y << std::endl;
+	std::cout << "x 의 값 : " << PlayerPos.x 
+		<< ", " << "y의 값 : " << PlayerPos.y << std::endl;
 
 	PlayerInput();
 }

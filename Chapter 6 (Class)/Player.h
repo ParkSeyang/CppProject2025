@@ -12,4 +12,4 @@ using namespace std;
 class Player : public HP
 {
 
-}
+};

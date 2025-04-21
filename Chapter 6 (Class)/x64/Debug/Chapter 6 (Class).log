@@ -1,4 +1,20 @@
-﻿  Main.cpp
+﻿  Enemy.cpp
+C:\Users\Administrator\Desktop\CppProject2025\Chapter 6 (Class)\Enemy.cpp(3,13): error C2509: 'AttackedBy': 멤버 함수를 'Enemy'에서 선언하지 않았습니다.
+      C:\Users\Administrator\Desktop\CppProject2025\Chapter 6 (Class)\Enemy.h(13,7):
+      'Enemy' 선언을 참조하십시오.
+  
+C:\Users\Administrator\Desktop\CppProject2025\Chapter 6 (Class)\Enemy.cpp(8,13): error C2509: 'Recovery': 멤버 함수를 'Enemy'에서 선언하지 않았습니다.
+      C:\Users\Administrator\Desktop\CppProject2025\Chapter 6 (Class)\Enemy.h(13,7):
+      'Enemy' 선언을 참조하십시오.
+  
+  Main.cpp
   Player.cpp
+C:\Users\Administrator\Desktop\CppProject2025\Chapter 6 (Class)\Player.cpp(3,14): error C2509: 'AttackedBy': 멤버 함수를 'Player'에서 선언하지 않았습니다.
+      C:\Users\Administrator\Desktop\CppProject2025\Chapter 6 (Class)\Player.h(12,7):
+      'Player' 선언을 참조하십시오.
+  
+C:\Users\Administrator\Desktop\CppProject2025\Chapter 6 (Class)\Player.cpp(17,14): error C2509: 'Recovery': 멤버 함수를 'Player'에서 선언하지 않았습니다.
+      C:\Users\Administrator\Desktop\CppProject2025\Chapter 6 (Class)\Player.h(12,7):
+      'Player' 선언을 참조하십시오.
+  
   코드를 생성하고 있습니다...
-  Chapter 6 (Class).vcxproj -> C:\Users\Administrator\Desktop\CppProject2025\Projectcpp\x64\Debug\Chapter 6 (Class).exe

@@ -4,7 +4,7 @@ void Player::AttackedBy(int damage)
 {
 	if (damage < 0)
 	{
-		cout << "피해량이 음수가 될수 없습니다." << endl;
+		cout << "피해량이 음수가 될 수 없습니다." << endl;
 	}
 	HP -= damage;
 
@@ -22,9 +22,10 @@ void Player::Recovery(int heal)
 		return;
 	}
 
-	// 아이템의 사용 갯수를 1을 뺀다.
+	// 아이템의 사용 갯수를 1뺀다.
 
 	HP += heal;
 
-	
+
+
 }

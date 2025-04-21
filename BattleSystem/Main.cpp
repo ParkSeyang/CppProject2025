@@ -20,6 +20,7 @@
 */
 
 #include "GameManager.h"
+
 /*
 * Enemy 객체
 * GameManager 객체
@@ -28,9 +29,11 @@
 int main()
 {
 
-	Enemy Slime(100,10,1,"슬라임",SlimeIdle,IDLE);  // 몬스터 객체를 생성
-	Player player(100, 10, 1, "모험가", PlayerIdle, IDLE);
-	GameManager Game(Slime,player);
+	Enemy Slime(100, 10, 1, "슬라임", SlimeMove, IDLE);    // 몬스터 객체를 생성.
+	Player player(100, 10, 1, "모험가", PlayerIdle, IDLE); // 플레이어 객체 생성
+	GameManager Game(Slime, player);
+
+	Game.GameLoop();
 
 	// int slimeX = 30;
 	// int slimeY = 5;
@@ -43,8 +46,6 @@ int main()
 	
 	// _getch(); // 키보드의 아무 버튼을 누르면 다음으로 진행됩니다.
 
-
-	Game.GameLoop();
 
 	// while (true)
 	// {

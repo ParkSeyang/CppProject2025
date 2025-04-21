@@ -1,4 +1,5 @@
 #pragma once
+
 #include "Common.h"
 #define IMAGEHEIGHT 10
 #define IMAGEWIDTH 10

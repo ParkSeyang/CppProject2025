@@ -1,6 +1,6 @@
 #include "Image.h"
-#include "Player.h"
-extern char SlimeIdle[IMAGEHEIGHT][IMAGEWIDTH + 1] =
+
+char SlimeIdle[IMAGEHEIGHT][IMAGEWIDTH + 1] =
 {
 	{"          "},
 	{"          "},
@@ -13,7 +13,7 @@ extern char SlimeIdle[IMAGEHEIGHT][IMAGEWIDTH + 1] =
 	{"          "},
 	{"          "},
 };
-extern char SlimeBattle[IMAGEHEIGHT][IMAGEWIDTH + 1] =
+char SlimeBattle[IMAGEHEIGHT][IMAGEWIDTH + 1] =
 {
 	{"          "},
 	{"  * * *   "},
@@ -26,7 +26,7 @@ extern char SlimeBattle[IMAGEHEIGHT][IMAGEWIDTH + 1] =
 	{"          "},
 	{"          "},
 };
-extern char SlimeMove[IMAGEHEIGHT][IMAGEWIDTH + 1] =
+char SlimeMove[IMAGEHEIGHT][IMAGEWIDTH + 1] =
 {
 	{"          "},
 	{"          "},
@@ -41,7 +41,7 @@ extern char SlimeMove[IMAGEHEIGHT][IMAGEWIDTH + 1] =
 };
 
 
-extern char PlayerIdle[IMAGEHEIGHT][IMAGEWIDTH + 1] =
+char PlayerIdle[IMAGEHEIGHT][IMAGEWIDTH + 1] =
 {
 	{"          "},
 	{"          "},
@@ -54,7 +54,7 @@ extern char PlayerIdle[IMAGEHEIGHT][IMAGEWIDTH + 1] =
 	{"          "},
 	{"          "},
 };
-extern char PlayerBattle[IMAGEHEIGHT][IMAGEWIDTH + 1] =
+char PlayerBattle[IMAGEHEIGHT][IMAGEWIDTH + 1] =
 {
 	{"          "},
 	{"          "},
@@ -67,7 +67,7 @@ extern char PlayerBattle[IMAGEHEIGHT][IMAGEWIDTH + 1] =
 	{"          "},
 	{"          "},
 };
-extern char PlayerMove[IMAGEHEIGHT][IMAGEWIDTH + 1] =
+char PlayerMove[IMAGEHEIGHT][IMAGEWIDTH + 1] =
 {
 	{"          "},
 	{"          "},

@@ -39,7 +39,6 @@ void Example()
 
 	// 변수끼리 대입 연산자를 사용한경우
 	// numA, numB 각각 다른 공간에 존재한다.
-
 	// 주소끼리 대입연산자를 사용한 경우
 	// 주소가 가리키는 값이 같다.
 
@@ -54,9 +53,9 @@ int main()
 	// Example(); 주소값 복사 예제
 
 	// Person human1 = {20}; // human1이라는 공간에 데이터를 복사해서 넣어줘야한다.
-	Person human1(20, "모험가",); // const char*
+	Person human1(20, "모험가"); // const char*
 	Person human1Clone;
-	Person human2(30, "용병",0);
+	Person human2(30, "용병");
 	human1Clone.Clone(human1);
 
 	human1.Show();

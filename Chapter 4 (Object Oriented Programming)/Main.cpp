@@ -15,7 +15,7 @@
 // 표준 라이브러리 std (Standard)
 
 // using namespace std;  // 해당 소스파일 내부의 모든 코드를 namespace안에 있는것으로 판단하라
-                      // std::cout == cout
+                         // std::cout == cout
 
 // 이 기능을 사용할시 주의해야될 사항.
 // std안에 있던 이름과 같은타입의 데이터를 생성하면 모호하다는 에러가 발생한다.
@@ -26,8 +26,8 @@
 
 // 권장하는 사용방법
 
-#include <iostream>
 #include "Item.h"
+#include "Player.h"
  using std::cout;
  using std::endl;
  using std::cin;
@@ -56,18 +56,11 @@ int main()
 
     // 타입 item1 이름 = {이름, 가격, 수, 타입}
     
-    Item item2("Potion", 50, 1, USEBLE);
+    Item item2("Potion", 50, 1, USEABLE);
 
 
     item1.ShowItemInfo();
     item2.ShowItemInfo();
-
-    Player player1;
-
-    player1.GOTOXY(5, 5);
-    player1.ShowInfo();
-
-
 
 }
 

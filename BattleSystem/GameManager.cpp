@@ -4,8 +4,8 @@ void GameManager::GameLoop()
 {
 	while (true)
 	{
-		Battle();
 		Animation();
+		Battle();
 	}
 }
 
@@ -14,19 +14,26 @@ void GameManager::Battle()
 	// 전투 UI 출력
 	GoToXY(50, 5);
 	cout << "플레이어의 정보";
-	
 	GoToXY(50, 6);
 	cout << "플레이어의 체력 : " << player.HP;
 	GoToXY(50, 7);
-	cout << "플레이어의 공격력 :" << player.ATK;
+	cout << "플레이어의 공격력 : " << player.ATK;
 	GoToXY(50, 8);
 	cout << "플레이어의 방어력 : " << player.DEF;
+
+	GoToXY(80, 5);
+	cout << "적군의 정보";
+	GoToXY(80, 6);
+	cout << "적군의 체력 : " << currentEnemy.HP;
+	GoToXY(80, 7);
+	cout << "적군의 공격력 : " << currentEnemy.ATK;
+	GoToXY(80, 8);
+	cout << "적군의 방어력 : " << currentEnemy.DEF;
 
 
 	// 플레이어의 조작 기능
 
-	// 규칙설계
-	// 플레이어의 턴을 사용한다 -> 몬스터가 턴을 진행한다.
+	// 플레이어 턴을 사용한다 -> 몬스터가 턴을 진행한다
 	if (currentTurnState == PLAYERTURN)
 	{
 		PlayerTurn();
@@ -37,12 +44,13 @@ void GameManager::Battle()
 	}
 	else if (currentTurnState == GAMECLEAR)
 	{
-		//GameClear 조건 일때 실행
+		// GameClear조건일 때 실행
 	}
 	else if (currentTurnState == GAMEEND)
 	{
-		//GameEnd 조건일때 실행
+		// GameEnd 조건일 때 실행
 	}
+
 }
 
 void GameManager::Animation()
@@ -55,28 +63,22 @@ void GameManager::Animation()
 	player.SetBattleImage(PlayerMove);
 	currentEnemy.SetBattleImage(SlimeMove);
 	Sleep(500);
-	
-
 }
 
 void GameManager::PlayerTurn()
 {
-	GoToXY(0, 15);	
+	GoToXY(0, 30);
 	cout << "현재 플레이어의 턴입니다." << endl;
-	cout << "1. 공격한다. 2. 방어한다. 3. 아이템을 사용한다. " << endl;
+	cout << "1_공격한다. 2_방어한다. 3_아이템을 사용한다." << endl;
 
 	int input = 0;
 	cin >> input;
 	switch (input)
 	{
-	case 1: currentEnemy.Attaked(player.ATK);
-		break;
-	case 2: player.Defence();
-		break;
-	case 3: player.UseItem(10);
-		break;
-	default:
-		break;
+	case 1: currentEnemy.Attacked(player.ATK);  break;
+	case 2: player.Defence(); break;
+	case 3: player.UseItem(10); break;
+	default: break;
 	}
 
 	currentTurnState = ENEMYTURN;
@@ -84,12 +86,12 @@ void GameManager::PlayerTurn()
 
 void GameManager::EnemyTurn()
 {
+	GoToXY(0, 30);
 	cout << "현재 적군의 턴입니다." << endl;
-	cout << "1. 공격한다. 2. 방어한다. 3. 아이템을 사용한다. " << endl;
-	
+
 	player.Attacked(currentEnemy.ATK);
-	
-	cout << "키를 읍력하면 플레이어의 턴이 진행됩니다." << endl;
+
+	cout << "키를 입력하면 플레이어의 턴이 진행됩니다." << endl;
 	_getch();
 
 	currentTurnState = PLAYERTURN;

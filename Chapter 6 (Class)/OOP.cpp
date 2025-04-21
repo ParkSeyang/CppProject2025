@@ -5,10 +5,11 @@ void Example1()
 	// 콘솔 창에서 실행하기 때문에 좌표가 음수가 되면 안된다.
 	// 사람은 실수를 할 수 있지만, 실수를 찾기 위한 구조적인 설계가 되어 있지 않다.
 	Point p1 = { -2, 8 };
-	Point p2 = { 4, 10 };
+	Point p2 = { 4,  10 };
 
 	Point point(4, 6);
-	cPoint cp1(-3, 5);
+	cPoint cp1(3, 5);
+
 
 	cp1.SetX(-3);
 }
@@ -38,6 +39,7 @@ void cPoint::SetX(int amount)
 		cout << "잘못된 값으로 x를 변경했습니다." << endl;
 		return;
 	}
+
 	x = amount;
 }
 
@@ -48,5 +50,6 @@ void cPoint::SetY(int amount)
 		cout << "잘못된 값으로 y를 변경했습니다." << endl;
 		return;
 	}
+
 	y = amount;
 }
