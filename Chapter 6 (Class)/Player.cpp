@@ -1,0 +1,30 @@
+#include "Player.h"
+
+void Player::AttackedBy(int damage)
+{
+	if (damage < 0)
+	{
+		cout << "피해량이 음수가 될수 없습니다." << endl;
+	}
+	HP -= damage;
+
+	if (HP <= 0)
+	{
+		isDeath = true;
+	}
+}
+
+void Player::Recovery(int heal)
+{
+	if (HP > MaxHP)
+	{
+		HP = MaxHP;
+		return;
+	}
+
+	// 아이템의 사용 갯수를 1을 뺀다.
+
+	HP += heal;
+
+	
+}
