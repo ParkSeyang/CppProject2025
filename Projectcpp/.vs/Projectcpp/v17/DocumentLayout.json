@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Projectcpp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\MyStat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Money.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05C8E659-A86B-4DB0-8D4C-3EA61039DAFB}|..\\Chapter 6 (Class)\\Chapter 6 (Class).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -149,7 +149,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -160,8 +160,12 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Enemy.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Enemy.cpp",
@@ -169,38 +173,37 @@
               "RelativeToolTip": "..\\Chapter 7 (Class 4 Features)\\Enemy.cpp",
               "ViewState": "AgIAABwAAAAAAAAAAAAIwCsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T08:24:24.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T08:24:24.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Enemy.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.h",
               "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Enemy.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.h",
               "RelativeToolTip": "..\\Chapter 7 (Class 4 Features)\\Enemy.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-22T08:18:07.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Entity.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Entity.h",
               "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Entity.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Entity.h",
               "RelativeToolTip": "..\\Chapter 7 (Class 4 Features)\\Entity.h",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-22T07:59:22.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MyStat.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\MyStat.h",
               "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\MyStat.h",
@@ -221,12 +224,11 @@
               "RelativeToolTip": "..\\Chapter 7 (Class 4 Features)\\Money.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T07:45:14.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T07:45:14.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Money.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Money.h",
               "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Money.h",
@@ -234,12 +236,11 @@
               "RelativeToolTip": "..\\Chapter 7 (Class 4 Features)\\Money.h",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-22T07:42:00.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T07:42:00.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Character.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Character.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Character.cpp",
@@ -247,12 +248,11 @@
               "RelativeToolTip": "..\\Chapter 7 (Class 4 Features)\\Character.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T07:33:13.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T07:33:13.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Character.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Character.h",
               "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Character.h",
@@ -260,8 +260,7 @@
               "RelativeToolTip": "..\\Chapter 7 (Class 4 Features)\\Character.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-22T07:31:38.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T07:31:38.007Z"
             },
             {
               "$type": "Document",
@@ -273,8 +272,7 @@
               "RelativeToolTip": "..\\Chapter 7 (Class 4 Features)\\Skill.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-22T07:06:52.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T07:06:52.024Z"
             },
             {
               "$type": "Document",
@@ -347,12 +345,7 @@
               "RelativeToolTip": "..\\Chapter 6 (Class)\\Enemy.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-21T08:36:44.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+              "WhenOpened": "2025-04-21T08:36:44.25Z"
             },
             {
               "$type": "Document",
@@ -424,8 +417,7 @@
               "RelativeToolTip": "..\\Chapter 6 (Class)\\OOP.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-21T07:11:05.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T07:11:05.495Z"
             },
             {
               "$type": "Document",
@@ -437,8 +429,7 @@
               "RelativeToolTip": "..\\Chapter 6 (Class)\\Player.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-21T08:20:45.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T08:20:45.53Z"
             },
             {
               "$type": "Document",
@@ -450,8 +441,7 @@
               "RelativeToolTip": "..\\Chapter 6 (Class)\\HP.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-21T08:37:37.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T08:37:37.561Z"
             },
             {
               "$type": "Document",
@@ -487,8 +477,7 @@
               "RelativeToolTip": "..\\Chapter 6 (Class)\\Main.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-21T07:04:33.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T07:04:33.565Z"
             },
             {
               "$type": "Document",
