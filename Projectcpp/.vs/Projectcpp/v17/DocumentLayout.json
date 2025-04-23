@@ -6,10 +6,10 @@
       "AbsoluteMoniker": "D:0:0:{2CD769F2-8AE0-4459-8461-5B1FA8362A7C}|..\\Chapter 8 (Class 4 Features 2)\\Chapter 8 (Class 4 Features 2).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CD769F2-8AE0-4459-8461-5B1FA8362A7C}|..\\Chapter 8 (Class 4 Features 2)\\Chapter 8 (Class 4 Features 2).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2CD769F2-8AE0-4459-8461-5B1FA8362A7C}|..\\Chapter 8 (Class 4 Features 2)\\Chapter 8 (Class 4 Features 2).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CD769F2-8AE0-4459-8461-5B1FA8362A7C}|..\\Chapter 8 (Class 4 Features 2)\\Chapter 8 (Class 4 Features 2).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2CD769F2-8AE0-4459-8461-5B1FA8362A7C}|..\\Chapter 8 (Class 4 Features 2)\\Chapter 8 (Class 4 Features 2).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CD769F2-8AE0-4459-8461-5B1FA8362A7C}|..\\Chapter 8 (Class 4 Features 2)\\Chapter 8 (Class 4 Features 2).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -182,15 +182,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Monster.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 8 (Class 4 Features 2)\\Monster.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.cpp",
               "RelativeToolTip": "..\\Chapter 8 (Class 4 Features 2)\\Monster.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-23T08:02:26.066Z"
+              "WhenOpened": "2025-04-23T08:02:26.066Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -200,7 +201,7 @@
               "RelativeDocumentMoniker": "..\\Chapter 8 (Class 4 Features 2)\\Monster.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.h",
               "RelativeToolTip": "..\\Chapter 8 (Class 4 Features 2)\\Monster.h",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAewCsAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-23T07:32:55.678Z",
               "EditorCaption": ""
@@ -255,13 +256,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Main.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 8 (Class 4 Features 2)\\Main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Main.cpp",
               "RelativeToolTip": "..\\Chapter 8 (Class 4 Features 2)\\Main.cpp",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAmwEcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwEYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-23T07:04:02.003Z",
               "EditorCaption": ""

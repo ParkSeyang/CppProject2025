@@ -26,7 +26,6 @@ public:
 
 class Flyer
 {
-
 };
 
 class Unit  // 모든 유닛은 공격가능한가?
@@ -39,6 +38,7 @@ class Unit  // 모든 유닛은 공격가능한가?
 public:
 	Unit()
 	{
+		isAttackable = false;
 		attacker = new Attacker();
 	}
 	Unit(bool attackable)
