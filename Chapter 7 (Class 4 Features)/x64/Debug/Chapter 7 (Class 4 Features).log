@@ -1,4 +1,7 @@
-﻿  Main.cpp
-  Skill.cpp
+﻿  Character.cpp
+  Enemy.cpp
+  Entity.cpp
+  Money.cpp
+  MyStat.cpp
   코드를 생성하고 있습니다...
-  Chapter 7 (Class 4 Features).vcxproj -> C:\Users\Administrator\Desktop\CppProject2025\Projectcpp\x64\Debug\Chapter 7 (Class 4 Features).exe
+C:\Users\Administrator\Desktop\CppProject2025\Chapter 7 (Class 4 Features)\Money.cpp(12,3): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.

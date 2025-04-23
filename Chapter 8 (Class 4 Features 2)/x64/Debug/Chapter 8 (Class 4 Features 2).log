@@ -1,0 +1,6 @@
+﻿Main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: virtual void __cdecl Unit::Stop(void)" (?Stop@Unit@@UEAAXXZ)
+Main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: virtual void __cdecl Unit::UseSkill(void)" (?UseSkill@Unit@@UEAAXXZ)
+Main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: virtual void __cdecl Probe::Stop(void)" (?Stop@Probe@@UEAAXXZ)
+Main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: virtual void __cdecl Zealot::Stop(void)" (?Stop@Zealot@@UEAAXXZ)
+Main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: virtual void __cdecl Dragon::Stop(void)" (?Stop@Dragon@@UEAAXXZ)
+C:\Users\Administrator\Desktop\CppProject2025\Projectcpp\x64\Debug\Chapter 8 (Class 4 Features 2).exe : fatal error LNK1120: 5개의 확인할 수 없는 외부 참조입니다.
