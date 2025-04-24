@@ -128,7 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="builder.cpp" />
-    <ClCompile Include="GameSynergy.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Monster.cpp" />
     <ClCompile Include="MonsterHandler.cpp" />
@@ -136,7 +135,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="builder.h" />
-    <ClInclude Include="GameSynergy.h" />
     <ClInclude Include="Monster.h" />
     <ClInclude Include="MonsterHandler.h" />
     <ClInclude Include="Synergy.h" />
