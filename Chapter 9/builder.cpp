@@ -22,13 +22,13 @@ void TowerOptions::EnemyAttack(int power, int range, int enemy)
 
 void RifeTower::build(int cost, int time)
 {
-	cout << "[RifeTower] ";
+	cout << "[RifleTower] ";
 	TowerOptions::build(cost, time);
 }
 
 void RifeTower::EnemyAttack(int power, int range, int enemy)
 {
-	cout << "[RifeTower] ÃÑ¾Ë °ø°Ý!" << endl;
+	cout << "[RifleTower] ÃÑ¾Ë °ø°Ý!" << endl;
 	TowerOptions::EnemyAttack(power, range, enemy);
 }
 

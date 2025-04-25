@@ -1,0 +1,8 @@
+﻿  Constructor.cpp
+  Main.cpp
+C:\Users\Administrator\Desktop\CppProject2025\Starcraft\Constructor.cpp(2,1): error C2332: 'class': 태그 이름이 없습니다.
+C:\Users\Administrator\Desktop\CppProject2025\Starcraft\Constructor.cpp(2,1): error C1004: 예기치 않은 파일의 끝이 나타났습니다.
+C:\Users\Administrator\Desktop\CppProject2025\Starcraft\Main.cpp(19,8): warning C4101: 'unitptr' :참조되지 않은 지역 변수입니다.
+  RandomUtil.cpp
+  Unit.cpp
+  코드를 생성하고 있습니다...
