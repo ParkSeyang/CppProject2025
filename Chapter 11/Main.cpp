@@ -36,10 +36,14 @@ int main()
 	system("cls");
 	cout << "달리기 게임 코드" << endl;  // Game Title
 
+	// 사운드를 출력해주는 기능을 작성
+
+	BGMUtil::PlayTitleSound(_T("sound.wav"));
+		
 	Runner* runA = new Player();
-	Runner* runB = new Runner("B");
-	Runner* runC = new Runner();
-	Runner* runD = new Runner("D");
+	Runner* runB = new Enemy("B");
+	Runner* runC = new Enemy();
+	Runner* runD = new Enemy("D");
 	// int runA = 0;  // 1번 주자의 현재 이동 거리.
 	// int runB = 0;  // 
 	// int runC = 0;

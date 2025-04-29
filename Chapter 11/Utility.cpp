@@ -15,3 +15,13 @@ void ConsoleUtil::GotoXY(int x, int y)
 	static COORD pos = { x,y };
 	SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), pos);
 }
+
+void BGMUtil::PlayTitleSound(LPCWSTR filename)
+{
+	PlaySound(filename, NULL, SND_SYNC);
+}
+
+void BGMUtil::PlayBGM(LPCWSTR filename)
+{
+	PlaySound(filename, NULL, SND_ASYNC);
+}

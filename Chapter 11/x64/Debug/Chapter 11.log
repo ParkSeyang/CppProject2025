@@ -1,5 +1,2 @@
-﻿  Main.cpp
-C:\Users\Administrator\Desktop\CppProject2025\Chapter 11\Main.cpp(55,14): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Runner.cpp
-  코드를 생성하고 있습니다...
+﻿  Runner.cpp
   Chapter 11.vcxproj -> C:\Users\Administrator\Desktop\CppProject2025\Projectcpp\x64\Debug\Chapter 11.exe
