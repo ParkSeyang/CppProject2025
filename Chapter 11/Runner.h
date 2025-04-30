@@ -1,15 +1,24 @@
 #pragma once
 #include "Common.h"
 #include "Utility.h"
+
+enum PlayerStat
+{
+	MINSPPED, MAXSPEED , NONE
+};
+
 class Runner
 {
 private:
 	bool isend;
 
 protected:
+
+	PlayerStat stat;
 	int run;
 	int minSpeed;
 	int maxSpeed;
+	int money;
 
 	string symbol;
 
@@ -19,12 +28,22 @@ protected:
 
 
 public:
-	Runner() : run(0),isend(false), minSpeed(1),maxSpeed(5), symbol("E") {}
-	Runner(string symbol) : run(0), isend(false), minSpeed(1), maxSpeed(5), symbol(symbol) {}
+	Runner() : run(0),isend(false), minSpeed(1),maxSpeed(5), symbol("E"),stat(PlayerStat::NONE), money(1000) {}
+	Runner(string symbol) : run(0), isend(false), minSpeed(1), maxSpeed(5), symbol(symbol), stat(PlayerStat::NONE),money(1000) {}
 
 	void Run();
 
 	bool CheckEndLine(int length);
+
+	virtual void ShowPlayerGameInfo(); // dynamicCast<> ¥Î√º
+
+	void Upgrade(PlayerStat selectedStat); 
+	void Upgrade(PlayerStat selectedStat, int amount);
+
+	void SetMin(int value);
+	void SetMax(int value);
+
+	void Initialize();
 };
 
 class Player : public Runner
@@ -40,6 +59,8 @@ public:
 	}
 	
 	Player(string symbol) : Runner(symbol) {}
+
+	void ShowPlayerGameInfo() override;
 };
 
 

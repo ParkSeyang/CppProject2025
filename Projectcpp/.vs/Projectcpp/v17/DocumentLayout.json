@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Projectcpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Runner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Runner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Runner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -15,10 +15,16 @@
       "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Utility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -290,7 +296,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -302,32 +308,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SoundUtil.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\SoundUtil.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 12\\SoundUtil.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\SoundUtil.cpp",
-              "RelativeToolTip": "..\\Chapter 12\\SoundUtil.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.cpp",
+              "RelativeDocumentMoniker": "..\\Chapter 11\\GameManager.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.cpp",
+              "RelativeToolTip": "..\\Chapter 11\\GameManager.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-29T07:32:48.94Z",
+              "WhenOpened": "2025-04-30T07:14:12.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SoundUtil.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\SoundUtil.h",
-              "RelativeDocumentMoniker": "..\\Chapter 12\\SoundUtil.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\SoundUtil.h",
-              "RelativeToolTip": "..\\Chapter 12\\SoundUtil.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-29T07:30:17.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\Main.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 12\\Main.cpp",
@@ -345,7 +339,7 @@
               "RelativeDocumentMoniker": "..\\Chapter 11\\Runner.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Runner.h",
               "RelativeToolTip": "..\\Chapter 11\\Runner.h",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-28T08:08:18.143Z",
               "EditorCaption": ""
@@ -378,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Base.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Base.h",
               "RelativeDocumentMoniker": "..\\Chapter 11\\Base.h",
@@ -386,25 +380,24 @@
               "RelativeToolTip": "..\\Chapter 11\\Base.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-28T07:03:33.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T07:03:33.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Main.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 11\\Main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Main.cpp",
               "RelativeToolTip": "..\\Chapter 11\\Main.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-28T07:02:45.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Constructor.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Constructor.h",
               "RelativeDocumentMoniker": "..\\Starcraft\\Constructor.h",
@@ -416,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Main.cpp",
               "RelativeDocumentMoniker": "..\\Starcraft\\Main.cpp",
@@ -428,33 +421,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Common.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Common.h",
               "RelativeDocumentMoniker": "..\\Chapter 11\\Common.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Common.h",
               "RelativeToolTip": "..\\Chapter 11\\Common.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-28T07:04:08.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Runner.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Runner.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 11\\Runner.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Runner.cpp",
               "RelativeToolTip": "..\\Chapter 11\\Runner.cpp",
-              "ViewState": "AgIAACUAAAAAAAAAAAASwDYAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAASwGsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-28T08:08:36.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Base.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Base.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 11\\Base.cpp",
@@ -467,7 +460,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 4,
+              "Title": "GameManager.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.h",
+              "RelativeDocumentMoniker": "..\\Chapter 11\\GameManager.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.h",
+              "RelativeToolTip": "..\\Chapter 11\\GameManager.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-30T07:02:55.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SoundUtil.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\SoundUtil.h",
+              "RelativeDocumentMoniker": "..\\Chapter 12\\SoundUtil.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\SoundUtil.h",
+              "RelativeToolTip": "..\\Chapter 12\\SoundUtil.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-29T07:30:17.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SoundUtil.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\SoundUtil.cpp",
+              "RelativeDocumentMoniker": "..\\Chapter 12\\SoundUtil.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\SoundUtil.cpp",
+              "RelativeToolTip": "..\\Chapter 12\\SoundUtil.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T07:32:48.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Constructor.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Constructor.cpp",
               "RelativeDocumentMoniker": "..\\Starcraft\\Constructor.cpp",
@@ -479,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "RandomUtil.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\RandomUtil.cpp",
               "RelativeDocumentMoniker": "..\\Starcraft\\RandomUtil.cpp",
@@ -491,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "UpgradeSystem.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\UpgradeSystem.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 10\\UpgradeSystem.cpp",
@@ -503,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "UpgradeSystem.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\UpgradeSystem.h",
               "RelativeDocumentMoniker": "..\\Chapter 10\\UpgradeSystem.h",
@@ -515,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "Weapon.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Weapon.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 10\\Weapon.cpp",
@@ -527,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Weapon.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Weapon.h",
               "RelativeDocumentMoniker": "..\\Chapter 10\\Weapon.h",
@@ -539,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Common.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Common.h",
               "RelativeDocumentMoniker": "..\\Chapter 10\\Common.h",
@@ -551,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "RandomUtil.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\RandomUtil.h",
               "RelativeDocumentMoniker": "..\\Starcraft\\RandomUtil.h",
@@ -563,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "builder.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\builder.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 9\\builder.cpp",
@@ -575,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "builder.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\builder.h",
               "RelativeDocumentMoniker": "..\\Chapter 9\\builder.h",
@@ -587,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "MonsterHandler.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\MonsterHandler.h",
               "RelativeDocumentMoniker": "..\\Chapter 9\\MonsterHandler.h",
@@ -599,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Monster.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Monster.h",
               "RelativeDocumentMoniker": "..\\Chapter 9\\Monster.h",
@@ -611,7 +641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Common.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Common.h",
               "RelativeDocumentMoniker": "..\\Starcraft\\Common.h",
@@ -623,7 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Unit.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Unit.h",
               "RelativeDocumentMoniker": "..\\Starcraft\\Unit.h",
@@ -635,7 +665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Unit.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Unit.cpp",
               "RelativeDocumentMoniker": "..\\Starcraft\\Unit.cpp",
@@ -647,7 +677,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Main.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 10\\Main.cpp",
@@ -659,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Main.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Main.cpp",
@@ -670,7 +700,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "Synergy.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Synergy.h",
               "RelativeDocumentMoniker": "..\\Chapter 9\\Synergy.h",
@@ -682,7 +712,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "GameSynergy.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\GameSynergy.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 9\\GameSynergy.cpp",
@@ -694,7 +724,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "GameSynergy.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\GameSynergy.h",
               "RelativeDocumentMoniker": "..\\Chapter 9\\GameSynergy.h",
@@ -706,7 +736,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "MonsterHandler.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\MonsterHandler.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 9\\MonsterHandler.cpp",
@@ -718,7 +748,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Main.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 9\\Main.cpp",
@@ -730,7 +760,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "builder.h",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\builder.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\builder.h",
@@ -742,7 +772,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "Monster.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Monster.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 9\\Monster.cpp",
@@ -754,7 +784,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "builder.cpp",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\builder.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\builder.cpp",
@@ -766,7 +796,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "Monster.cpp",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Monster.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Monster.cpp",
@@ -778,7 +808,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "Monster.h",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Monster.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Monster.h",
@@ -790,7 +820,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "Monster.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 8 (Class 4 Features 2)\\Monster.cpp",
@@ -802,7 +832,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "Monster.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.h",
               "RelativeDocumentMoniker": "..\\Chapter 8 (Class 4 Features 2)\\Monster.h",
@@ -814,7 +844,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "Police.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Police.h",
               "RelativeDocumentMoniker": "..\\Chapter 8 (Class 4 Features 2)\\Police.h",
@@ -826,7 +856,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "Book.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Book.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 8 (Class 4 Features 2)\\Book.cpp",
@@ -838,7 +868,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "Book.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Book.h",
               "RelativeDocumentMoniker": "..\\Chapter 8 (Class 4 Features 2)\\Book.h",
@@ -850,7 +880,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "Common.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Common.h",
               "RelativeDocumentMoniker": "..\\Chapter 8 (Class 4 Features 2)\\Common.h",
@@ -862,7 +892,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Main.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 8 (Class 4 Features 2)\\Main.cpp",
@@ -874,7 +904,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "Enemy.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Enemy.cpp",
@@ -886,7 +916,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "Enemy.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.h",
               "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Enemy.h",
@@ -898,7 +928,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "Entity.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Entity.h",
               "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Entity.h",
@@ -910,7 +940,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "MyStat.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\MyStat.h",
               "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\MyStat.h",
@@ -922,7 +952,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "Money.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Money.h",
               "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Money.h",
@@ -934,7 +964,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "Character.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Character.h",
               "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Character.h",
@@ -946,7 +976,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "Skill.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Skill.h",
               "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Skill.h",
@@ -958,7 +988,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 59,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Main.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Main.cpp",
@@ -970,7 +1000,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Main.cpp",
               "RelativeDocumentMoniker": "..\\BattleSystem\\Main.cpp",
@@ -982,7 +1012,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 61,
               "Title": "Person.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Person.h",
               "RelativeDocumentMoniker": "..\\Chapter 5 (Copy Data)\\Person.h",
@@ -994,7 +1024,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 62,
               "Title": "Common.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Common.h",
               "RelativeDocumentMoniker": "..\\Chapter 5 (Copy Data)\\Common.h",
@@ -1006,7 +1036,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 63,
               "Title": "Character.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Character.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Character.cpp",
@@ -1018,7 +1048,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 64,
               "Title": "Money.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Money.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Money.cpp",
@@ -1030,7 +1060,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 65,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Player.cpp",
               "RelativeDocumentMoniker": "..\\BattleSystem\\Player.cpp",
@@ -1042,7 +1072,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 66,
               "Title": "Common.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Common.h",
               "RelativeDocumentMoniker": "..\\BattleSystem\\Common.h",
@@ -1054,7 +1084,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 67,
               "Title": "Enemy.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Enemy.h",
               "RelativeDocumentMoniker": "..\\BattleSystem\\Enemy.h",
@@ -1066,7 +1096,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 68,
               "Title": "Enemy.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Enemy.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 6 (Class)\\Enemy.cpp",
@@ -1078,7 +1108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 69,
               "Title": "GameManager.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\GameManager.h",
               "RelativeDocumentMoniker": "..\\BattleSystem\\GameManager.h",
@@ -1090,7 +1120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 70,
               "Title": "Image.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Image.h",
               "RelativeDocumentMoniker": "..\\BattleSystem\\Image.h",
@@ -1102,7 +1132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 71,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Player.h",
               "RelativeDocumentMoniker": "..\\BattleSystem\\Player.h",
@@ -1114,7 +1144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 72,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Player.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 4 (Object Oriented Programming)\\Player.cpp",
@@ -1126,7 +1156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 73,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Player.h",
               "RelativeDocumentMoniker": "..\\Chapter 4 (Object Oriented Programming)\\Player.h",
@@ -1138,7 +1168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 74,
               "Title": "OOP.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\OOP.h",
               "RelativeDocumentMoniker": "..\\Chapter 6 (Class)\\OOP.h",
@@ -1150,7 +1180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 75,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Player.h",
               "RelativeDocumentMoniker": "..\\Chapter 6 (Class)\\Player.h",
@@ -1162,7 +1192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 76,
               "Title": "HP.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\HP.h",
               "RelativeDocumentMoniker": "..\\Chapter 6 (Class)\\HP.h",
@@ -1174,7 +1204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 77,
               "Title": "Image.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Image.cpp",
               "RelativeDocumentMoniker": "..\\BattleSystem\\Image.cpp",
@@ -1186,7 +1216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 78,
               "Title": "GameManager.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\GameManager.cpp",
               "RelativeDocumentMoniker": "..\\BattleSystem\\GameManager.cpp",
@@ -1198,7 +1228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 79,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Main.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 6 (Class)\\Main.cpp",
@@ -1210,7 +1240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 80,
               "Title": "Enemy.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Enemy.cpp",
               "RelativeDocumentMoniker": "..\\BattleSystem\\Enemy.cpp",
@@ -1222,7 +1252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 81,
               "Title": "Common.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Common.cpp",
               "RelativeDocumentMoniker": "..\\BattleSystem\\Common.cpp",
@@ -1234,7 +1264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 82,
               "Title": "Enemy.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Enemy.h",
               "RelativeDocumentMoniker": "..\\Chapter 6 (Class)\\Enemy.h",
@@ -1246,7 +1276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 83,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Player.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 6 (Class)\\Player.cpp",
@@ -1258,7 +1288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 84,
               "Title": "OOP.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\OOP.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 6 (Class)\\OOP.cpp",
@@ -1270,7 +1300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 85,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Main.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 5 (Copy Data)\\Main.cpp",
@@ -1282,7 +1312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 86,
               "Title": "Game.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Game.h",
               "RelativeDocumentMoniker": "..\\Chapter 4 (Object Oriented Programming)\\Game.h",
@@ -1294,7 +1324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 87,
               "Title": "Item.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Item.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 4 (Object Oriented Programming)\\Item.cpp",
@@ -1306,7 +1336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 88,
               "Title": "Item.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Item.h",
               "RelativeDocumentMoniker": "..\\Chapter 4 (Object Oriented Programming)\\Item.h",
@@ -1318,7 +1348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 89,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Main.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 4 (Object Oriented Programming)\\Main.cpp",
@@ -1330,7 +1360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "xstring",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
@@ -1342,7 +1372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "Projectcpp.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Projectcpp\\Projectcpp.cpp",
               "RelativeDocumentMoniker": "Projectcpp.cpp",
@@ -1354,7 +1384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "delete_scalar.cpp",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\delete_scalar.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\delete_scalar.cpp",
@@ -1366,7 +1396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 90,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 3 (Structure \u0026 Referrer)\\Main.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 3 (Structure \u0026 Referrer)\\Main.cpp",
@@ -1378,7 +1408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 91,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 2 (input\u0026output2)\\Main.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 2 (input\u0026output2)\\Main.cpp",
@@ -1390,7 +1420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 92,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\ToyProject 1\\Main.cpp",
               "RelativeDocumentMoniker": "..\\ToyProject 1\\Main.cpp",
@@ -1402,7 +1432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 93,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\chapter 1 (input\u0026output)\\main.cpp",
               "RelativeDocumentMoniker": "..\\chapter 1 (input\u0026output)\\main.cpp",
@@ -1414,7 +1444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 94,
               "Title": "Person.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Person.cpp",
               "RelativeDocumentMoniker": "..\\Chapter 5 (Copy Data)\\Person.cpp",
