@@ -45,7 +45,7 @@ int main()
 	else
 	{
 		system("cls");
-		std::cout << "부엉이에게 나대다가 부엉이에게 한끼식사가 되었습니다! (Bad Ending)";
+		std::cout << "부엉이에게 나대다가 부엉이의 한끼식사가 되었습니다! (Bad Ending)";
 		bat3.show(0, 0);
 	}
 
