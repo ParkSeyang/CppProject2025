@@ -1,162 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Projectcpp\\",
+  "WorkspaceRootPath": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Projectcpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82A380CA-A7DF-454D-8A93-7B6D0E151CE9}|..\\Chapter 9\\Chapter 9.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{82A380CA-A7DF-454D-8A93-7B6D0E151CE9}|..\\Chapter 9\\Chapter 9.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82A380CA-A7DF-454D-8A93-7B6D0E151CE9}|..\\Chapter 9\\Chapter 9.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\builder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{82A380CA-A7DF-454D-8A93-7B6D0E151CE9}|..\\Chapter 9\\Chapter 9.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82A380CA-A7DF-454D-8A93-7B6D0E151CE9}|..\\Chapter 9\\Chapter 9.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\builder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{82A380CA-A7DF-454D-8A93-7B6D0E151CE9}|..\\Chapter 9\\Chapter 9.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\builder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AF12F00-A121-4017-A2EA-BACCB7091AFE}|..\\StoryTelling\\StoryTelling.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AF12F00-A121-4017-A2EA-BACCB7091AFE}|..\\StoryTelling\\StoryTelling.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AF12F00-A121-4017-A2EA-BACCB7091AFE}|..\\StoryTelling\\StoryTelling.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AF12F00-A121-4017-A2EA-BACCB7091AFE}|..\\StoryTelling\\StoryTelling.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AF12F00-A121-4017-A2EA-BACCB7091AFE}|..\\StoryTelling\\StoryTelling.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AF12F00-A121-4017-A2EA-BACCB7091AFE}|..\\StoryTelling\\StoryTelling.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AF12F00-A121-4017-A2EA-BACCB7091AFE}|..\\StoryTelling\\StoryTelling.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\ImageModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AF12F00-A121-4017-A2EA-BACCB7091AFE}|..\\StoryTelling\\StoryTelling.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Runner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8531A5E0-C0D2-4661-9597-590497637CD3}|..\\Chapter 12\\Chapter 12.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8531A5E0-C0D2-4661-9597-590497637CD3}|..\\Chapter 12\\Chapter 12.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\SoundUtil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Utility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0761B494-B9E1-4E1B-B055-9FE4C128E757}|..\\DataHandleProject\\DataHandleProject.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0761B494-B9E1-4E1B-B055-9FE4C128E757}|..\\DataHandleProject\\DataHandleProject.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0761B494-B9E1-4E1B-B055-9FE4C128E757}|..\\DataHandleProject\\DataHandleProject.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0761B494-B9E1-4E1B-B055-9FE4C128E757}|..\\DataHandleProject\\DataHandleProject.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\DataHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0761B494-B9E1-4E1B-B055-9FE4C128E757}|..\\DataHandleProject\\DataHandleProject.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0761B494-B9E1-4E1B-B055-9FE4C128E757}|..\\DataHandleProject\\DataHandleProject.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Shop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0761B494-B9E1-4E1B-B055-9FE4C128E757}|..\\DataHandleProject\\DataHandleProject.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\DataHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0761B494-B9E1-4E1B-B055-9FE4C128E757}|..\\DataHandleProject\\DataHandleProject.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0761B494-B9E1-4E1B-B055-9FE4C128E757}|..\\DataHandleProject\\DataHandleProject.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Shop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Runner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD5F5E2-8FEA-442E-9B29-259173E9DE13}|..\\Chapter 11\\Chapter 11.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8531A5E0-C0D2-4661-9597-590497637CD3}|..\\Chapter 12\\Chapter 12.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\SoundUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DC9210D-D585-47C6-A871-294DA456FB24}|..\\Starcraft\\Starcraft.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\RandomUtil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DC9210D-D585-47C6-A871-294DA456FB24}|..\\Starcraft\\Starcraft.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\RandomUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{632BC19A-C283-43C6-B370-7C141F37F998}|..\\Chapter 10\\Chapter 10.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82A380CA-A7DF-454D-8A93-7B6D0E151CE9}|..\\Chapter 9\\Chapter 9.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82A380CA-A7DF-454D-8A93-7B6D0E151CE9}|..\\Chapter 9\\Chapter 9.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\MonsterHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DC9210D-D585-47C6-A871-294DA456FB24}|..\\Starcraft\\Starcraft.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DC9210D-D585-47C6-A871-294DA456FB24}|..\\Starcraft\\Starcraft.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Constructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DC9210D-D585-47C6-A871-294DA456FB24}|..\\Starcraft\\Starcraft.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Unit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DC9210D-D585-47C6-A871-294DA456FB24}|..\\Starcraft\\Starcraft.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DC9210D-D585-47C6-A871-294DA456FB24}|..\\Starcraft\\Starcraft.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Unit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DC9210D-D585-47C6-A871-294DA456FB24}|..\\Starcraft\\Starcraft.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Constructor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{632BC19A-C283-43C6-B370-7C141F37F998}|..\\Chapter 10\\Chapter 10.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{632BC19A-C283-43C6-B370-7C141F37F998}|..\\Chapter 10\\Chapter 10.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{632BC19A-C283-43C6-B370-7C141F37F998}|..\\Chapter 10\\Chapter 10.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{632BC19A-C283-43C6-B370-7C141F37F998}|..\\Chapter 10\\Chapter 10.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\UpgradeSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{632BC19A-C283-43C6-B370-7C141F37F998}|..\\Chapter 10\\Chapter 10.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\UpgradeSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82A380CA-A7DF-454D-8A93-7B6D0E151CE9}|..\\Chapter 9\\Chapter 9.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B89DF767-0EBF-4106-9842-72872253E917}|Projectcpp.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Projectcpp\\Projectcpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B89DF767-0EBF-4106-9842-72872253E917}|Projectcpp.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Projectcpp\\Projectcpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B89DF767-0EBF-4106-9842-72872253E917}|Projectcpp.vcxproj|solutionrelative:Projectcpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -172,172 +31,301 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\GameSynergy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\builder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\builder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\ImageModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82A380CA-A7DF-454D-8A93-7B6D0E151CE9}|..\\Chapter 9\\Chapter 9.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Synergy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82A380CA-A7DF-454D-8A93-7B6D0E151CE9}|..\\Chapter 9\\Chapter 9.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\MonsterHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CD769F2-8AE0-4459-8461-5B1FA8362A7C}|..\\Chapter 8 (Class 4 Features 2)\\Chapter 8 (Class 4 Features 2).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CD769F2-8AE0-4459-8461-5B1FA8362A7C}|..\\Chapter 8 (Class 4 Features 2)\\Chapter 8 (Class 4 Features 2).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\builder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CD769F2-8AE0-4459-8461-5B1FA8362A7C}|..\\Chapter 8 (Class 4 Features 2)\\Chapter 8 (Class 4 Features 2).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Police.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\builder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CD769F2-8AE0-4459-8461-5B1FA8362A7C}|..\\Chapter 8 (Class 4 Features 2)\\Chapter 8 (Class 4 Features 2).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CD769F2-8AE0-4459-8461-5B1FA8362A7C}|..\\Chapter 8 (Class 4 Features 2)\\Chapter 8 (Class 4 Features 2).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CD769F2-8AE0-4459-8461-5B1FA8362A7C}|..\\Chapter 8 (Class 4 Features 2)\\Chapter 8 (Class 4 Features 2).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\DataHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CD769F2-8AE0-4459-8461-5B1FA8362A7C}|..\\Chapter 8 (Class 4 Features 2)\\Chapter 8 (Class 4 Features 2).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Shop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\MyStat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Money.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Shop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Skill.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\DataHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{804F32F9-572B-492D-BE07-A687E50EE215}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Runner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5234852B-28C3-484E-8C48-151BEA4C472B}|..\\Chapter 5 (Copy Data)\\Chapter 5 (Copy Data).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5234852B-28C3-484E-8C48-151BEA4C472B}|..\\Chapter 5 (Copy Data)\\Chapter 5 (Copy Data).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Constructor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13334A1E-EBEC-481B-B78B-8FA7259F8992}|..\\Chapter 7 (Class 4 Features)\\Chapter 7 (Class 4 Features).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Money.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{804F32F9-572B-492D-BE07-A687E50EE215}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{804F32F9-572B-492D-BE07-A687E50EE215}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{804F32F9-572B-492D-BE07-A687E50EE215}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05C8E659-A86B-4DB0-8D4C-3EA61039DAFB}|..\\Chapter 6 (Class)\\Chapter 6 (Class).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\SoundUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{804F32F9-572B-492D-BE07-A687E50EE215}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Constructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{804F32F9-572B-492D-BE07-A687E50EE215}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\RandomUtil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{804F32F9-572B-492D-BE07-A687E50EE215}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\UpgradeSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0BA8969-DCB3-4E12-B51D-E36F79E86650}|..\\Chapter 4 (Object Oriented Programming)\\Chapter 4 (Object Oriented Programming).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\UpgradeSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0BA8969-DCB3-4E12-B51D-E36F79E86650}|..\\Chapter 4 (Object Oriented Programming)\\Chapter 4 (Object Oriented Programming).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05C8E659-A86B-4DB0-8D4C-3EA61039DAFB}|..\\Chapter 6 (Class)\\Chapter 6 (Class).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\OOP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05C8E659-A86B-4DB0-8D4C-3EA61039DAFB}|..\\Chapter 6 (Class)\\Chapter 6 (Class).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05C8E659-A86B-4DB0-8D4C-3EA61039DAFB}|..\\Chapter 6 (Class)\\Chapter 6 (Class).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\HP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\RandomUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{804F32F9-572B-492D-BE07-A687E50EE215}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\MonsterHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{804F32F9-572B-492D-BE07-A687E50EE215}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05C8E659-A86B-4DB0-8D4C-3EA61039DAFB}|..\\Chapter 6 (Class)\\Chapter 6 (Class).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{804F32F9-572B-492D-BE07-A687E50EE215}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Unit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{804F32F9-572B-492D-BE07-A687E50EE215}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Common.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Unit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05C8E659-A86B-4DB0-8D4C-3EA61039DAFB}|..\\Chapter 6 (Class)\\Chapter 6 (Class).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05C8E659-A86B-4DB0-8D4C-3EA61039DAFB}|..\\Chapter 6 (Class)\\Chapter 6 (Class).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Synergy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05C8E659-A86B-4DB0-8D4C-3EA61039DAFB}|..\\Chapter 6 (Class)\\Chapter 6 (Class).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\MonsterHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5234852B-28C3-484E-8C48-151BEA4C472B}|..\\Chapter 5 (Copy Data)\\Chapter 5 (Copy Data).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{82A380CA-A7DF-454D-8A93-7B6D0E151CE9}|..\\Chapter 9\\Chapter 9.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\builder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0BA8969-DCB3-4E12-B51D-E36F79E86650}|..\\Chapter 4 (Object Oriented Programming)\\Chapter 4 (Object Oriented Programming).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0BA8969-DCB3-4E12-B51D-E36F79E86650}|..\\Chapter 4 (Object Oriented Programming)\\Chapter 4 (Object Oriented Programming).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{82A380CA-A7DF-454D-8A93-7B6D0E151CE9}|..\\Chapter 9\\Chapter 9.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0BA8969-DCB3-4E12-B51D-E36F79E86650}|..\\Chapter 4 (Object Oriented Programming)\\Chapter 4 (Object Oriented Programming).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0BA8969-DCB3-4E12-B51D-E36F79E86650}|..\\Chapter 4 (Object Oriented Programming)\\Chapter 4 (Object Oriented Programming).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60CE79B7-43F0-4B85-B07B-7F4050B9F78B}|..\\Chapter 3 (Structure \u0026 Referrer)\\Chapter 3 (Structure \u0026 Referrer).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 3 (Structure \u0026 Referrer)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Police.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E73FFFF4-AB17-465F-9187-468509F1A222}|..\\Chapter 2 (input\u0026output2)\\Chapter 2 (input\u0026output2).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 2 (input\u0026output2)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE44AE1-20FF-4C1B-802F-0316BE0C02F6}|..\\ToyProject 1\\ToyProject 1.vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\ToyProject 1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A380C58A-0252-4AC7-9276-F3ECC361D886}|..\\chapter 1 (input\u0026output)\\chapter 1 (input\u0026output).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\chapter 1 (input\u0026output)\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5234852B-28C3-484E-8C48-151BEA4C472B}|..\\Chapter 5 (Copy Data)\\Chapter 5 (Copy Data).vcxproj|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\MyStat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Money.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Skill.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Money.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\OOP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\HP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Common.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 3 (Structure \u0026 Referrer)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 2 (input\u0026output2)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\ToyProject 1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\chapter 1 (input\u0026output)\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -347,453 +335,375 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 53,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\Main.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\Main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T07:04:41.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Console.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Console.cpp",
-              "RelativeDocumentMoniker": "..\\StoryTelling\\Console.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Console.cpp",
-              "RelativeToolTip": "..\\StoryTelling\\Console.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-07T07:55:06.751Z",
-              "EditorCaption": ""
+              "DocumentIndex": 10,
+              "Title": "Console.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Console.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Console.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Console.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Console.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-06T07:08:42.071Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Runner.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Runner.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 11\\Runner.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Runner.cpp",
-              "RelativeToolTip": "..\\Chapter 11\\Runner.cpp",
-              "ViewState": "AgIAAFIAAAAAAAAAAAASwGsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-28T08:08:36.886Z",
-              "EditorCaption": ""
+              "Title": "Image.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Image.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Image.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Image.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Image.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-06T07:29:12.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Utility.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Utility.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 11\\Utility.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Utility.cpp",
-              "RelativeToolTip": "..\\Chapter 11\\Utility.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-28T07:33:31.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SoundUtil.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\SoundUtil.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 12\\SoundUtil.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\SoundUtil.cpp",
-              "RelativeToolTip": "..\\Chapter 12\\SoundUtil.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-29T07:32:48.94Z",
-              "EditorCaption": ""
+              "DocumentIndex": 12,
+              "Title": "ImageModel.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\ImageModel.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\ImageModel.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\ImageModel.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\ImageModel.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-06T07:19:30.537Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 12\\Main.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\Main.cpp",
-              "RelativeToolTip": "..\\Chapter 12\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-29T07:04:41.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Console.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Console.h",
-              "RelativeDocumentMoniker": "..\\StoryTelling\\Console.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Console.h",
-              "RelativeToolTip": "..\\StoryTelling\\Console.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-06T07:08:42.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Image.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Image.h",
-              "RelativeDocumentMoniker": "..\\StoryTelling\\Image.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Image.h",
-              "RelativeToolTip": "..\\StoryTelling\\Image.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-06T07:29:12.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ImageModel.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\ImageModel.h",
-              "RelativeDocumentMoniker": "..\\StoryTelling\\ImageModel.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\ImageModel.h",
-              "RelativeToolTip": "..\\StoryTelling\\ImageModel.h",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-06T07:19:30.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\StoryTelling\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Main.cpp",
-              "RelativeToolTip": "..\\StoryTelling\\Main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-06T07:06:28.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T07:06:28.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "Actor.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Actor.h",
-              "RelativeDocumentMoniker": "..\\StoryTelling\\Actor.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Actor.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Actor.h",
-              "RelativeToolTip": "..\\StoryTelling\\Actor.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Actor.h",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-06T08:13:58.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Actor.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Actor.cpp",
-              "RelativeDocumentMoniker": "..\\StoryTelling\\Actor.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Actor.cpp",
-              "RelativeToolTip": "..\\StoryTelling\\Actor.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-06T08:42:19.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "builder.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\builder.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 9\\builder.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\builder.cpp",
-              "RelativeToolTip": "..\\Chapter 9\\builder.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T08:21:50.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "builder.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\builder.h",
-              "RelativeDocumentMoniker": "..\\Chapter 9\\builder.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\builder.h",
-              "RelativeToolTip": "..\\Chapter 9\\builder.h",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-24T08:16:47.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 9\\Main.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Main.cpp",
-              "RelativeToolTip": "..\\Chapter 9\\Main.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAD4AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T07:03:48.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T08:13:58.589Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "GameManager.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 11\\GameManager.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.cpp",
-              "RelativeToolTip": "..\\Chapter 11\\GameManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Title": "Actor.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Actor.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Actor.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Actor.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Actor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-30T07:14:12.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T08:42:19.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
+              "Title": "builder.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\builder.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\builder.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\builder.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\builder.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T08:21:50.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "builder.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\builder.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\builder.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\builder.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\builder.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T08:16:47.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Main.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Main.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T07:03:48.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-30T07:14:12.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 11\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Main.cpp",
-              "RelativeToolTip": "..\\Chapter 11\\Main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-28T07:02:45.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T07:02:45.753Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "DataHandler.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\DataHandler.cpp",
-              "RelativeDocumentMoniker": "..\\DataHandleProject\\DataHandler.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\DataHandler.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\DataHandler.cpp",
-              "RelativeToolTip": "..\\DataHandleProject\\DataHandler.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\DataHandler.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-02T07:24:19.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T07:24:19.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "Image.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Image.cpp",
-              "RelativeDocumentMoniker": "..\\StoryTelling\\Image.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Image.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Image.cpp",
-              "RelativeToolTip": "..\\StoryTelling\\Image.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\StoryTelling\\Image.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-06T07:53:15.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T07:53:15.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "GameManager.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\GameManager.h",
-              "RelativeDocumentMoniker": "..\\DataHandleProject\\GameManager.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\GameManager.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\GameManager.h",
-              "RelativeToolTip": "..\\DataHandleProject\\GameManager.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\GameManager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-02T07:55:55.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\DataHandleProject\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Main.cpp",
-              "RelativeToolTip": "..\\DataHandleProject\\Main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-02T07:05:12.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T07:05:12.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "Shop.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Shop.h",
-              "RelativeDocumentMoniker": "..\\DataHandleProject\\Shop.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Shop.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Shop.h",
-              "RelativeToolTip": "..\\DataHandleProject\\Shop.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Shop.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-02T07:55:07.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Player.h",
-              "RelativeDocumentMoniker": "..\\DataHandleProject\\Player.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Player.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Player.h",
-              "RelativeToolTip": "..\\DataHandleProject\\Player.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Player.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-02T07:55:21.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Shop.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Shop.cpp",
-              "RelativeDocumentMoniker": "..\\DataHandleProject\\Shop.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Shop.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Shop.cpp",
-              "RelativeToolTip": "..\\DataHandleProject\\Shop.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Shop.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-02T08:06:42.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Player.cpp",
-              "RelativeDocumentMoniker": "..\\DataHandleProject\\Player.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Player.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Player.cpp",
-              "RelativeToolTip": "..\\DataHandleProject\\Player.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\Player.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-02T08:27:37.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T08:27:37.216Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "GameManager.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\GameManager.cpp",
-              "RelativeDocumentMoniker": "..\\DataHandleProject\\GameManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\GameManager.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\GameManager.cpp",
-              "RelativeToolTip": "..\\DataHandleProject\\GameManager.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\GameManager.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-02T08:00:03.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T08:00:03.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "DataHandler.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\DataHandler.h",
-              "RelativeDocumentMoniker": "..\\DataHandleProject\\DataHandler.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\DataHandler.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\DataHandler.h",
-              "RelativeToolTip": "..\\DataHandleProject\\DataHandler.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\DataHandleProject\\DataHandler.h",
               "ViewState": "AgIAACYAAAAAAAAAAAASwB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-02T07:11:17.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "Runner.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Runner.h",
-              "RelativeDocumentMoniker": "..\\Chapter 11\\Runner.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Runner.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Runner.h",
-              "RelativeToolTip": "..\\Chapter 11\\Runner.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Runner.h",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-28T08:08:18.143Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "Utility.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Utility.h",
-              "RelativeDocumentMoniker": "..\\Chapter 11\\Utility.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Utility.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Utility.h",
-              "RelativeToolTip": "..\\Chapter 11\\Utility.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Utility.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-28T07:30:43.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Base.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Base.h",
-              "RelativeDocumentMoniker": "..\\Chapter 11\\Base.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Base.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Base.h",
-              "RelativeToolTip": "..\\Chapter 11\\Base.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Base.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-28T07:03:33.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 33,
               "Title": "Constructor.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Constructor.h",
-              "RelativeDocumentMoniker": "..\\Starcraft\\Constructor.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Constructor.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Constructor.h",
-              "RelativeToolTip": "..\\Starcraft\\Constructor.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Constructor.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-25T08:15:48.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 34,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\Starcraft\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Main.cpp",
-              "RelativeToolTip": "..\\Starcraft\\Main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-25T08:12:42.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "Common.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Common.h",
-              "RelativeDocumentMoniker": "..\\Chapter 11\\Common.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Common.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Common.h",
-              "RelativeToolTip": "..\\Chapter 11\\Common.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Common.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-28T07:04:08.785Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "Base.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Base.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 11\\Base.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Base.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Base.cpp",
-              "RelativeToolTip": "..\\Chapter 11\\Base.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\Base.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-28T07:13:04.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 37,
               "Title": "GameManager.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.h",
-              "RelativeDocumentMoniker": "..\\Chapter 11\\GameManager.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.h",
-              "RelativeToolTip": "..\\Chapter 11\\GameManager.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 11\\GameManager.h",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-30T07:02:55.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "SoundUtil.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\SoundUtil.h",
-              "RelativeDocumentMoniker": "..\\Chapter 12\\SoundUtil.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\SoundUtil.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\SoundUtil.h",
-              "RelativeToolTip": "..\\Chapter 12\\SoundUtil.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 12\\SoundUtil.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-29T07:30:17.111Z"
@@ -803,847 +713,851 @@
               "DocumentIndex": 39,
               "Title": "Constructor.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Constructor.cpp",
-              "RelativeDocumentMoniker": "..\\Starcraft\\Constructor.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Constructor.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Constructor.cpp",
-              "RelativeToolTip": "..\\Starcraft\\Constructor.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Constructor.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-25T08:26:41.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "RandomUtil.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\RandomUtil.cpp",
-              "RelativeDocumentMoniker": "..\\Starcraft\\RandomUtil.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Starcraft\\RandomUtil.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\RandomUtil.cpp",
-              "RelativeToolTip": "..\\Starcraft\\RandomUtil.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Starcraft\\RandomUtil.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-28T07:29:55.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 41,
               "Title": "UpgradeSystem.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\UpgradeSystem.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 10\\UpgradeSystem.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\UpgradeSystem.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\UpgradeSystem.cpp",
-              "RelativeToolTip": "..\\Chapter 10\\UpgradeSystem.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\UpgradeSystem.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-25T07:46:26.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 42,
               "Title": "UpgradeSystem.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\UpgradeSystem.h",
-              "RelativeDocumentMoniker": "..\\Chapter 10\\UpgradeSystem.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\UpgradeSystem.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\UpgradeSystem.h",
-              "RelativeToolTip": "..\\Chapter 10\\UpgradeSystem.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\UpgradeSystem.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-25T07:44:09.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 43,
               "Title": "Weapon.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Weapon.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 10\\Weapon.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Weapon.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Weapon.cpp",
-              "RelativeToolTip": "..\\Chapter 10\\Weapon.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Weapon.cpp",
               "ViewState": "AgIAABoAAAAAAAAAAAASwDkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-25T07:20:20.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "Weapon.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Weapon.h",
-              "RelativeDocumentMoniker": "..\\Chapter 10\\Weapon.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Weapon.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Weapon.h",
-              "RelativeToolTip": "..\\Chapter 10\\Weapon.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Weapon.h",
               "ViewState": "AgIAABUAAAAAAAAAAAAiwDUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-25T07:09:52.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 45,
               "Title": "Common.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Common.h",
-              "RelativeDocumentMoniker": "..\\Chapter 10\\Common.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Common.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Common.h",
-              "RelativeToolTip": "..\\Chapter 10\\Common.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Common.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-25T07:08:07.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 46,
               "Title": "RandomUtil.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\RandomUtil.h",
-              "RelativeDocumentMoniker": "..\\Starcraft\\RandomUtil.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Starcraft\\RandomUtil.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\RandomUtil.h",
-              "RelativeToolTip": "..\\Starcraft\\RandomUtil.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Starcraft\\RandomUtil.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-25T08:29:19.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 47,
               "Title": "MonsterHandler.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\MonsterHandler.h",
-              "RelativeDocumentMoniker": "..\\Chapter 9\\MonsterHandler.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\MonsterHandler.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\MonsterHandler.h",
-              "RelativeToolTip": "..\\Chapter 9\\MonsterHandler.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\MonsterHandler.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-24T07:06:19.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 48,
               "Title": "Monster.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Monster.h",
-              "RelativeDocumentMoniker": "..\\Chapter 9\\Monster.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Monster.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Monster.h",
-              "RelativeToolTip": "..\\Chapter 9\\Monster.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Monster.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-24T07:05:28.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 49,
               "Title": "Common.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Common.h",
-              "RelativeDocumentMoniker": "..\\Starcraft\\Common.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Common.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Common.h",
-              "RelativeToolTip": "..\\Starcraft\\Common.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Common.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-25T08:16:22.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 50,
               "Title": "Unit.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Unit.h",
-              "RelativeDocumentMoniker": "..\\Starcraft\\Unit.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Unit.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Unit.h",
-              "RelativeToolTip": "..\\Starcraft\\Unit.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Unit.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-25T08:16:41.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 51,
               "Title": "Unit.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Unit.cpp",
-              "RelativeDocumentMoniker": "..\\Starcraft\\Unit.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Unit.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Unit.cpp",
-              "RelativeToolTip": "..\\Starcraft\\Unit.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Starcraft\\Unit.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-25T08:22:16.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 52,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 10\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Main.cpp",
-              "RelativeToolTip": "..\\Chapter 10\\Main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 10\\Main.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAAADEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-25T07:05:34.469Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 1,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\Chapter 9\\Main.cpp",
               "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Main.cpp",
-              "RelativeToolTip": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Main.cpp",
+              "RelativeToolTip": "..\\Chapter 9\\Main.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T20:05:18.281Z"
+              "WhenOpened": "2025-04-24T20:05:18.281Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 53,
               "Title": "Synergy.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Synergy.h",
-              "RelativeDocumentMoniker": "..\\Chapter 9\\Synergy.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Synergy.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Synergy.h",
-              "RelativeToolTip": "..\\Chapter 9\\Synergy.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Synergy.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-24T08:07:35.685Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 7,
               "Title": "GameSynergy.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\GameSynergy.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 9\\GameSynergy.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\GameSynergy.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\GameSynergy.cpp",
-              "RelativeToolTip": "..\\Chapter 9\\GameSynergy.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\GameSynergy.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T08:06:36.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 8,
               "Title": "GameSynergy.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\GameSynergy.h",
-              "RelativeDocumentMoniker": "..\\Chapter 9\\GameSynergy.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\GameSynergy.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\GameSynergy.h",
-              "RelativeToolTip": "..\\Chapter 9\\GameSynergy.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\GameSynergy.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-24T08:06:11.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 54,
               "Title": "MonsterHandler.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\MonsterHandler.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 9\\MonsterHandler.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\MonsterHandler.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\MonsterHandler.cpp",
-              "RelativeToolTip": "..\\Chapter 9\\MonsterHandler.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\MonsterHandler.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T07:23:55.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 55,
               "Title": "builder.h",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\builder.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\builder.h",
+              "RelativeDocumentMoniker": "..\\Chapter 9\\builder.h",
               "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\builder.h",
-              "RelativeToolTip": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\builder.h",
+              "RelativeToolTip": "..\\Chapter 9\\builder.h",
               "ViewState": "AgIAABsAAAAAAAAAAAAAwDMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-24T20:00:11.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 56,
               "Title": "Monster.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Monster.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 9\\Monster.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Monster.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Monster.cpp",
-              "RelativeToolTip": "..\\Chapter 9\\Monster.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 9\\Monster.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T07:14:27.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 2,
               "Title": "builder.cpp",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\builder.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\builder.cpp",
+              "RelativeDocumentMoniker": "..\\Chapter 9\\builder.cpp",
               "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\builder.cpp",
-              "RelativeToolTip": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\builder.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "RelativeToolTip": "..\\Chapter 9\\builder.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T20:04:16.114Z"
+              "WhenOpened": "2025-04-24T20:04:16.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Monster.cpp",
+              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Monster.cpp",
+              "RelativeDocumentMoniker": "..\\Chapter 9\\Monster.cpp",
+              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Monster.cpp",
+              "RelativeToolTip": "..\\Chapter 9\\Monster.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T20:05:18.633Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 57,
-              "Title": "Monster.cpp",
-              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Monster.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Monster.cpp",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Monster.cpp",
-              "RelativeToolTip": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Monster.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T20:05:18.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
               "Title": "Monster.h",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Monster.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Monster.h",
+              "RelativeDocumentMoniker": "..\\Chapter 9\\Monster.h",
               "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Monster.h",
-              "RelativeToolTip": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Chapter 9\\Monster.h",
+              "RelativeToolTip": "..\\Chapter 9\\Monster.h",
               "ViewState": "AgIAACQAAAAAAAAAAADgvzQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-24T20:05:20.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 58,
               "Title": "Monster.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 8 (Class 4 Features 2)\\Monster.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.cpp",
-              "RelativeToolTip": "..\\Chapter 8 (Class 4 Features 2)\\Monster.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-23T08:02:26.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 59,
               "Title": "Monster.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.h",
-              "RelativeDocumentMoniker": "..\\Chapter 8 (Class 4 Features 2)\\Monster.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.h",
-              "RelativeToolTip": "..\\Chapter 8 (Class 4 Features 2)\\Monster.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Monster.h",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAADwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-23T07:32:55.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 60,
               "Title": "Police.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Police.h",
-              "RelativeDocumentMoniker": "..\\Chapter 8 (Class 4 Features 2)\\Police.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Police.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Police.h",
-              "RelativeToolTip": "..\\Chapter 8 (Class 4 Features 2)\\Police.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Police.h",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-23T07:29:40.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 61,
               "Title": "Book.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Book.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 8 (Class 4 Features 2)\\Book.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Book.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Book.cpp",
-              "RelativeToolTip": "..\\Chapter 8 (Class 4 Features 2)\\Book.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Book.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-23T07:07:30.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 62,
               "Title": "Book.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Book.h",
-              "RelativeDocumentMoniker": "..\\Chapter 8 (Class 4 Features 2)\\Book.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Book.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Book.h",
-              "RelativeToolTip": "..\\Chapter 8 (Class 4 Features 2)\\Book.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Book.h",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-23T07:06:16.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 63,
               "Title": "Common.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Common.h",
-              "RelativeDocumentMoniker": "..\\Chapter 8 (Class 4 Features 2)\\Common.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Common.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Common.h",
-              "RelativeToolTip": "..\\Chapter 8 (Class 4 Features 2)\\Common.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Common.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-23T07:04:15.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 64,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 8 (Class 4 Features 2)\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Main.cpp",
-              "RelativeToolTip": "..\\Chapter 8 (Class 4 Features 2)\\Main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 8 (Class 4 Features 2)\\Main.cpp",
               "ViewState": "AgIAACgAAAAAAAAAAAAmwEYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-23T07:04:02.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 65,
               "Title": "Enemy.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Enemy.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.cpp",
-              "RelativeToolTip": "..\\Chapter 7 (Class 4 Features)\\Enemy.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.cpp",
               "ViewState": "AgIAADIAAAAAI2g4qfsewCsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-22T08:24:24.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 66,
               "Title": "Enemy.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.h",
-              "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Enemy.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.h",
-              "RelativeToolTip": "..\\Chapter 7 (Class 4 Features)\\Enemy.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Enemy.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-22T08:18:07.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 67,
               "Title": "Entity.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Entity.h",
-              "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Entity.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Entity.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Entity.h",
-              "RelativeToolTip": "..\\Chapter 7 (Class 4 Features)\\Entity.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Entity.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-22T07:59:22.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 68,
               "Title": "MyStat.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\MyStat.h",
-              "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\MyStat.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\MyStat.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\MyStat.h",
-              "RelativeToolTip": "..\\Chapter 7 (Class 4 Features)\\MyStat.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\MyStat.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-22T07:58:26.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 69,
               "Title": "Money.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Money.h",
-              "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Money.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Money.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Money.h",
-              "RelativeToolTip": "..\\Chapter 7 (Class 4 Features)\\Money.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Money.h",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-22T07:42:00.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 70,
               "Title": "Character.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Character.h",
-              "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Character.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Character.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Character.h",
-              "RelativeToolTip": "..\\Chapter 7 (Class 4 Features)\\Character.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Character.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-22T07:31:38.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 71,
               "Title": "Skill.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Skill.h",
-              "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Skill.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Skill.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Skill.h",
-              "RelativeToolTip": "..\\Chapter 7 (Class 4 Features)\\Skill.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Skill.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-22T07:06:52.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 72,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Main.cpp",
-              "RelativeToolTip": "..\\Chapter 7 (Class 4 Features)\\Main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-22T07:06:24.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 73,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Main.cpp",
-              "RelativeToolTip": "..\\BattleSystem\\Main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Main.cpp",
               "ViewState": "AgIAABkAAAAAAAAAAAAMwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-21T10:40:39.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 74,
               "Title": "Person.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Person.h",
-              "RelativeDocumentMoniker": "..\\Chapter 5 (Copy Data)\\Person.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Person.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Person.h",
-              "RelativeToolTip": "..\\Chapter 5 (Copy Data)\\Person.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Person.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-16T07:25:28.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 75,
               "Title": "Common.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Common.h",
-              "RelativeDocumentMoniker": "..\\Chapter 5 (Copy Data)\\Common.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Common.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Common.h",
-              "RelativeToolTip": "..\\Chapter 5 (Copy Data)\\Common.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Common.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-16T07:06:01.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 76,
               "Title": "Character.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Character.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Character.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Character.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Character.cpp",
-              "RelativeToolTip": "..\\Chapter 7 (Class 4 Features)\\Character.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Character.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-22T07:33:13.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 77,
               "Title": "Money.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Money.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 7 (Class 4 Features)\\Money.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Money.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Money.cpp",
-              "RelativeToolTip": "..\\Chapter 7 (Class 4 Features)\\Money.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 7 (Class 4 Features)\\Money.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-22T07:45:14.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 78,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Player.cpp",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\Player.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Player.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Player.cpp",
-              "RelativeToolTip": "..\\BattleSystem\\Player.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Player.cpp",
               "ViewState": "AgIAAEsAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-21T10:39:05.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 79,
               "Title": "Common.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Common.h",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\Common.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Common.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Common.h",
-              "RelativeToolTip": "..\\BattleSystem\\Common.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Common.h",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-21T10:38:43.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 80,
               "Title": "Enemy.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Enemy.h",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\Enemy.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Enemy.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Enemy.h",
-              "RelativeToolTip": "..\\BattleSystem\\Enemy.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Enemy.h",
               "ViewState": "AgIAACQAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-21T10:37:58.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 81,
               "Title": "Enemy.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Enemy.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 6 (Class)\\Enemy.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Enemy.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Enemy.cpp",
-              "RelativeToolTip": "..\\Chapter 6 (Class)\\Enemy.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Enemy.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-21T08:36:44.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 82,
               "Title": "GameManager.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\GameManager.h",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\GameManager.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\GameManager.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\GameManager.h",
-              "RelativeToolTip": "..\\BattleSystem\\GameManager.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\GameManager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-21T10:37:30.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 83,
               "Title": "Image.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Image.h",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\Image.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Image.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Image.h",
-              "RelativeToolTip": "..\\BattleSystem\\Image.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Image.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-21T10:36:56.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 84,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Player.h",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\Player.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Player.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Player.h",
-              "RelativeToolTip": "..\\BattleSystem\\Player.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Player.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-21T10:35:55.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 85,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Player.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 4 (Object Oriented Programming)\\Player.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Player.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Player.cpp",
-              "RelativeToolTip": "..\\Chapter 4 (Object Oriented Programming)\\Player.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Player.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-21T10:25:03.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 86,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Player.h",
-              "RelativeDocumentMoniker": "..\\Chapter 4 (Object Oriented Programming)\\Player.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Player.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Player.h",
-              "RelativeToolTip": "..\\Chapter 4 (Object Oriented Programming)\\Player.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Player.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-21T10:21:52.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 87,
               "Title": "OOP.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\OOP.h",
-              "RelativeDocumentMoniker": "..\\Chapter 6 (Class)\\OOP.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\OOP.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\OOP.h",
-              "RelativeToolTip": "..\\Chapter 6 (Class)\\OOP.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\OOP.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-21T07:11:05.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 88,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Player.h",
-              "RelativeDocumentMoniker": "..\\Chapter 6 (Class)\\Player.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Player.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Player.h",
-              "RelativeToolTip": "..\\Chapter 6 (Class)\\Player.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Player.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-21T08:20:45.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 89,
               "Title": "HP.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\HP.h",
-              "RelativeDocumentMoniker": "..\\Chapter 6 (Class)\\HP.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\HP.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\HP.h",
-              "RelativeToolTip": "..\\Chapter 6 (Class)\\HP.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\HP.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-21T08:37:37.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 90,
               "Title": "Image.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Image.cpp",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\Image.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Image.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Image.cpp",
-              "RelativeToolTip": "..\\BattleSystem\\Image.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Image.cpp",
               "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-21T10:41:54.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 91,
               "Title": "GameManager.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\GameManager.cpp",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\GameManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\GameManager.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\GameManager.cpp",
-              "RelativeToolTip": "..\\BattleSystem\\GameManager.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\GameManager.cpp",
               "ViewState": "AgIAAC0AAAAAAAAAAAAowDoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-21T10:42:30.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 92,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 6 (Class)\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Main.cpp",
-              "RelativeToolTip": "..\\Chapter 6 (Class)\\Main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Main.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-21T07:04:33.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 93,
               "Title": "Enemy.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Enemy.cpp",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\Enemy.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Enemy.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Enemy.cpp",
-              "RelativeToolTip": "..\\BattleSystem\\Enemy.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Enemy.cpp",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-21T10:43:21.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 94,
               "Title": "Common.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Common.cpp",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\Common.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Common.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Common.cpp",
-              "RelativeToolTip": "..\\BattleSystem\\Common.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\BattleSystem\\Common.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-21T10:44:22.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 95,
               "Title": "Enemy.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Enemy.h",
-              "RelativeDocumentMoniker": "..\\Chapter 6 (Class)\\Enemy.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Enemy.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Enemy.h",
-              "RelativeToolTip": "..\\Chapter 6 (Class)\\Enemy.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Enemy.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-21T08:32:36.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 96,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Player.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 6 (Class)\\Player.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Player.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Player.cpp",
-              "RelativeToolTip": "..\\Chapter 6 (Class)\\Player.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\Player.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-21T08:24:44.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 97,
               "Title": "OOP.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\OOP.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 6 (Class)\\OOP.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\OOP.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\OOP.cpp",
-              "RelativeToolTip": "..\\Chapter 6 (Class)\\OOP.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 6 (Class)\\OOP.cpp",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-21T07:13:04.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 98,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 5 (Copy Data)\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Main.cpp",
-              "RelativeToolTip": "..\\Chapter 5 (Copy Data)\\Main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAUwDcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-16T07:05:43.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 99,
               "Title": "Game.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Game.h",
-              "RelativeDocumentMoniker": "..\\Chapter 4 (Object Oriented Programming)\\Game.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Game.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Game.h",
-              "RelativeToolTip": "..\\Chapter 4 (Object Oriented Programming)\\Game.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Game.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-15T08:14:48.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 100,
               "Title": "Item.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Item.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 4 (Object Oriented Programming)\\Item.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Item.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Item.cpp",
-              "RelativeToolTip": "..\\Chapter 4 (Object Oriented Programming)\\Item.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Item.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-15T08:10:17.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 101,
               "Title": "Item.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Item.h",
-              "RelativeDocumentMoniker": "..\\Chapter 4 (Object Oriented Programming)\\Item.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Item.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Item.h",
-              "RelativeToolTip": "..\\Chapter 4 (Object Oriented Programming)\\Item.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Item.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-15T08:01:40.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 102,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 4 (Object Oriented Programming)\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Main.cpp",
-              "RelativeToolTip": "..\\Chapter 4 (Object Oriented Programming)\\Main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 4 (Object Oriented Programming)\\Main.cpp",
               "ViewState": "AgIAACwAAAAAAAAAAAArwDoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-15T07:05:13.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 6,
               "Title": "xstring",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
               "ViewState": "AQIAAPwIAAAAAAAAAAAtwAoJAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-04-15T07:03:16.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 4,
               "Title": "Projectcpp.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Projectcpp\\Projectcpp.cpp",
+              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Projectcpp\\Projectcpp.cpp",
               "RelativeDocumentMoniker": "Projectcpp.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Projectcpp\\Projectcpp.cpp",
+              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\u002B\u002B\\CppProject2025\\Projectcpp\\Projectcpp.cpp",
               "RelativeToolTip": "Projectcpp.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -1651,72 +1565,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 5,
               "Title": "delete_scalar.cpp",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\delete_scalar.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\delete_scalar.cpp",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\delete_scalar.cpp",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\delete_scalar.cpp",
               "ViewState": "AQIAAAcAAAAAAAAAAIA3wCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-16T08:17:08.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 103,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 3 (Structure \u0026 Referrer)\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 3 (Structure \u0026 Referrer)\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 3 (Structure \u0026 Referrer)\\Main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 3 (Structure \u0026 Referrer)\\Main.cpp",
-              "RelativeToolTip": "..\\Chapter 3 (Structure \u0026 Referrer)\\Main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 3 (Structure \u0026 Referrer)\\Main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-14T07:05:32.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 104,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 2 (input\u0026output2)\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 2 (input\u0026output2)\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 2 (input\u0026output2)\\Main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 2 (input\u0026output2)\\Main.cpp",
-              "RelativeToolTip": "..\\Chapter 2 (input\u0026output2)\\Main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 2 (input\u0026output2)\\Main.cpp",
               "ViewState": "AQIAAIMAAAAAAAAAAAAAAJgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-11T07:21:16.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 105,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\ToyProject 1\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\ToyProject 1\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\ToyProject 1\\Main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\ToyProject 1\\Main.cpp",
-              "RelativeToolTip": "..\\ToyProject 1\\Main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\ToyProject 1\\Main.cpp",
               "ViewState": "AgIAAF4AAAAAAAAAAAD4v0sAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-10T08:51:51.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 106,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\chapter 1 (input\u0026output)\\main.cpp",
-              "RelativeDocumentMoniker": "..\\chapter 1 (input\u0026output)\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\chapter 1 (input\u0026output)\\main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\chapter 1 (input\u0026output)\\main.cpp",
-              "RelativeToolTip": "..\\chapter 1 (input\u0026output)\\main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\chapter 1 (input\u0026output)\\main.cpp",
               "ViewState": "AQIAAHsAAAAAAAAAAAAAAFQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-11T07:05:44.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 107,
               "Title": "Person.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Person.cpp",
-              "RelativeDocumentMoniker": "..\\Chapter 5 (Copy Data)\\Person.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Person.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Person.cpp",
-              "RelativeToolTip": "..\\Chapter 5 (Copy Data)\\Person.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CppProject2025\\Chapter 5 (Copy Data)\\Person.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-16T07:30:06.251Z"

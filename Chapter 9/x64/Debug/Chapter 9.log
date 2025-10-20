@@ -1,2 +1,7 @@
-﻿  LINK : C:\Users\Administrator\Desktop\CppProject2025\Projectcpp\x64\Debug\Chapter 9.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
-  Chapter 9.vcxproj -> C:\Users\Administrator\Desktop\CppProject2025\Projectcpp\x64\Debug\Chapter 9.exe
+﻿  Main.cpp
+C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\수업용 코딩파일\C++\CppProject2025\Chapter 9\Main.cpp(27,2): error C3861: 'STQ': 식별자를 찾을 수 없습니다.
+  Monster.cpp
+  MonsterHandler.cpp
+  Synergy.cpp
+  builder.cpp
+  코드를 생성하고 있습니다...
